@@ -1,0 +1,6622 @@
+ {
+
+  "stores": [
+    {
+      "description": "Склад компании. Киев.",
+      "type": "store-type-supplier",
+      "inventoryType": "integer",
+      "address": {
+        "index": "02000",
+        "countryIso": "UA",
+        "region": "Киев область",
+        "regionId": 91,
+        "city": "Киев",
+        "street": "Північно- Сирецька",
+        "building": "49Г",
+        "text": "Північно- Сирецька, д. 49Г"
+      },
+      "active": false,
+      "phone": {
+        "number": "0996313595"
+      },
+      "code": "001",
+      "workTime": {
+        "mo": [],
+        "tu": [],
+        "we": [],
+        "th": [],
+        "fr": [],
+        "sa": [],
+        "su": []
+      },
+      "name": "Склад дистрибуции Киев"
+    },
+    {
+      "description": "Розничный магазин г. Львов",
+      "type": "store-type-retail",
+      "inventoryType": "integer",
+      "address": {
+        "countryIso": "UA",
+        "region": "Львовская область",
+        "regionId": 108,
+        "city": "Львов",
+        "cityId": 25219,
+        "cityType": "г."
+      },
+      "active": false,
+      "phone": {
+
+      },
+      "code": "003",
+      "workTime": {
+        "mo": [],
+        "tu": [],
+        "we": [],
+        "th": [],
+        "fr": [],
+        "sa": [],
+        "su": []
+      },
+      "name": "Магазин Львов Арсен (старая настройка)"
+    },
+    {
+      "description": "Группа Розничных магазинов",
+      "type": "store-type-supplier",
+      "inventoryType": "integer",
+      "address": {
+        "countryIso": "UA"
+      },
+      "active": false,
+      "phone": {
+
+      },
+      "code": "005",
+      "workTime": {
+        "mo": [],
+        "tu": [],
+        "we": [],
+        "th": [],
+        "fr": [],
+        "sa": [],
+        "su": []
+      },
+      "name": "Розничный магазин"
+    },
+    {
+      "type": "store-type-supplier",
+      "inventoryType": "integer",
+      "address": {
+        "index": "79000",
+        "countryIso": "UA",
+        "region": "Львівська область",
+        "regionId": 108,
+        "city": "Львів",
+        "street": "Угорська",
+        "building": "22",
+        "text": "Угорська, д. 22"
+      },
+      "active": true,
+      "phone": {
+        "number": "0996313595"
+      },
+      "code": "002",
+      "workTime": {
+        "mo": [],
+        "tu": [],
+        "we": [],
+        "th": [],
+        "fr": [],
+        "sa": [],
+        "su": []
+      },
+      "name": "Склад ИМ Львов"
+    },
+    {
+      "description": "Склад компании. Харьков.",
+      "type": "store-type-supplier",
+      "inventoryType": "integer",
+      "address": {
+        "index": "61000",
+        "countryIso": "UA",
+        "region": "Харьковская область",
+        "regionId": 98,
+        "city": "Харків",
+        "street": "Зернова",
+        "building": "2",
+        "text": "Зернова, д. 2"
+      },
+      "active": true,
+      "phone": {
+        "number": "0996313595"
+      },
+      "code": "004",
+      "workTime": {
+        "mo": [],
+        "tu": [],
+        "we": [],
+        "th": [],
+        "fr": [],
+        "sa": [],
+        "su": []
+      },
+      "name": "Склад дистрибуции Харьков"
+    },
+    {
+      "description": "Магазин",
+      "type": "store-type-supplier",
+      "inventoryType": "integer",
+      "address": {
+        "countryIso": "UA",
+        "region": "Киев область",
+        "regionId": 91,
+        "city": "Київ",
+        "street": "Борщагівська",
+        "building": "154-А",
+        "text": "Борщагівська, д. 154-А"
+      },
+      "active": true,
+      "phone": {
+
+      },
+      "code": "3020",
+      "workTime": {
+        "mo": [],
+        "tu": [],
+        "we": [],
+        "th": [],
+        "fr": [],
+        "sa": [],
+        "su": []
+      },
+      "name": "м. Київ, ТЦ Аркадія, вул. Борщагівська, 154-А"
+    },
+    {
+      "description": "Магазин",
+      "type": "store-type-supplier",
+      "inventoryType": "integer",
+      "address": {
+        "countryIso": "UA",
+        "region": "Киев область",
+        "regionId": 91,
+        "city": "Київ",
+        "street": "Заболотного",
+        "building": "37",
+        "text": "Заболотного, д. 37"
+      },
+      "active": false,
+      "phone": {
+
+      },
+      "code": "5441",
+      "workTime": {
+        "mo": [],
+        "tu": [],
+        "we": [],
+        "th": [],
+        "fr": [],
+        "sa": [],
+        "su": []
+      },
+      "name": "м. Київ, ТРЦ ART Mall, вул. Заболотного, 37"
+    },
+    {
+      "description": "Магазин",
+      "type": "store-type-supplier",
+      "inventoryType": "integer",
+      "address": {
+        "countryIso": "UA",
+        "region": "Киев область",
+        "regionId": 91,
+        "city": "Київ",
+        "street": "Басейна",
+        "building": "5А",
+        "text": "Басейна, д. 5А"
+      },
+      "active": true,
+      "phone": {
+
+      },
+      "code": "7446",
+      "workTime": {
+        "mo": [],
+        "tu": [],
+        "we": [],
+        "th": [],
+        "fr": [],
+        "sa": [],
+        "su": []
+      },
+      "name": "м. Київ, вул. Басейна, 5А"
+    },
+    {
+      "description": "Магазин",
+      "type": "store-type-supplier",
+      "inventoryType": "integer",
+      "address": {
+        "countryIso": "UA",
+        "region": "Киев область",
+        "regionId": 91,
+        "city": "Київ",
+        "street": "Васильківська",
+        "building": "49",
+        "text": "Васильківська, д. 49"
+      },
+      "active": true,
+      "phone": {
+
+      },
+      "code": "3018",
+      "workTime": {
+        "mo": [],
+        "tu": [],
+        "we": [],
+        "th": [],
+        "fr": [],
+        "sa": [],
+        "su": []
+      },
+      "name": "м. Київ, вул. Велика Васильківська, 49"
+    },
+    {
+      "description": "Магазин",
+      "type": "store-type-supplier",
+      "inventoryType": "integer",
+      "address": {
+        "countryIso": "UA",
+        "region": "Винницкая область",
+        "regionId": 104,
+        "city": "Вінниця",
+        "street": "600-річчя",
+        "building": "17",
+        "text": "600-річчя, д. 17"
+      },
+      "active": true,
+      "phone": {
+
+      },
+      "code": "6463",
+      "workTime": {
+        "mo": [],
+        "tu": [],
+        "we": [],
+        "th": [],
+        "fr": [],
+        "sa": [],
+        "su": []
+      },
+      "name": "м. Вінниця, ТРЦ Mega Mall, вул. 600-річчя, 17"
+    },
+    {
+      "description": "Магазин",
+      "type": "store-type-supplier",
+      "inventoryType": "integer",
+      "address": {
+        "countryIso": "UA",
+        "region": "Киевская область",
+        "regionId": 102,
+        "city": "Вишгород",
+        "street": "Шкільна",
+        "building": "73 А",
+        "text": "Шкільна, д. 73 А"
+      },
+      "active": true,
+      "phone": {
+
+      },
+      "code": "7472",
+      "workTime": {
+        "mo": [],
+        "tu": [],
+        "we": [],
+        "th": [],
+        "fr": [],
+        "sa": [],
+        "su": []
+      },
+      "name": "м. Вишгород, вул. Шкільна, 73А"
+    },
+    {
+      "description": "Магазин",
+      "type": "store-type-supplier",
+      "inventoryType": "integer",
+      "address": {
+        "countryIso": "UA",
+        "region": "Киев область",
+        "regionId": 91,
+        "city": "Київ",
+        "street": "Велика Житомирська",
+        "building": "40",
+        "text": "Велика Житомирська, д. 40"
+      },
+      "active": true,
+      "phone": {
+
+      },
+      "code": "7435",
+      "workTime": {
+        "mo": [],
+        "tu": [],
+        "we": [],
+        "th": [],
+        "fr": [],
+        "sa": [],
+        "su": []
+      },
+      "name": "м. Київ, вул. Велика Житомирська, 40"
+    },
+    {
+      "description": "Магазин",
+      "type": "store-type-supplier",
+      "inventoryType": "integer",
+      "address": {
+        "countryIso": "UA",
+        "region": "Киевская область",
+        "regionId": 102,
+        "city": "Бровари",
+        "street": "Київська",
+        "building": "316",
+        "text": "Київська, д. 316"
+      },
+      "active": true,
+      "phone": {
+
+      },
+      "code": "6527",
+      "workTime": {
+        "mo": [],
+        "tu": [],
+        "we": [],
+        "th": [],
+        "fr": [],
+        "sa": [],
+        "su": []
+      },
+      "name": "м. Бровари, ТРЦ Термінал, вул. Київська, 316"
+    },
+    {
+      "description": "Магазин",
+      "type": "store-type-supplier",
+      "inventoryType": "integer",
+      "address": {
+        "countryIso": "UA",
+        "region": "Киевская область",
+        "regionId": 102,
+        "city": "Буча",
+        "street": "Нове Шосе",
+        "building": "52",
+        "text": "Нове Шосе, д. 52"
+      },
+      "active": true,
+      "phone": {
+
+      },
+      "code": "7451",
+      "workTime": {
+        "mo": [],
+        "tu": [],
+        "we": [],
+        "th": [],
+        "fr": [],
+        "sa": [],
+        "su": []
+      },
+      "name": "м. Буча, ТЦ Ritail Park, Нове шосе, 52"
+    },
+    {
+      "description": "Магазин",
+      "type": "store-type-supplier",
+      "inventoryType": "integer",
+      "address": {
+        "countryIso": "UA",
+        "region": "Киев область",
+        "regionId": 91,
+        "city": "Київ",
+        "street": "Верхній Вал",
+        "building": "10",
+        "text": "Верхній Вал, д. 10"
+      },
+      "active": true,
+      "phone": {
+
+      },
+      "code": "5805",
+      "workTime": {
+        "mo": [],
+        "tu": [],
+        "we": [],
+        "th": [],
+        "fr": [],
+        "sa": [],
+        "su": []
+      },
+      "name": "м. Київ, вул. Верхній Вал, 10"
+    },
+    {
+      "description": "Магазин",
+      "type": "store-type-supplier",
+      "inventoryType": "integer",
+      "address": {
+        "countryIso": "UA",
+        "region": "Киевская область",
+        "regionId": 102,
+        "city": "Вишневе",
+        "street": "Святошинська",
+        "building": "28-А",
+        "text": "Святошинська, д. 28-А"
+      },
+      "active": true,
+      "phone": {
+
+      },
+      "code": "6139",
+      "workTime": {
+        "mo": [],
+        "tu": [],
+        "we": [],
+        "th": [],
+        "fr": [],
+        "sa": [],
+        "su": []
+      },
+      "name": "м. Вишневе, ТЦ Novus, вул. Святошинська, 28-А"
+    },
+    {
+      "description": "Магазин",
+      "type": "store-type-supplier",
+      "inventoryType": "integer",
+      "address": {
+        "countryIso": "UA",
+        "region": "Киевская область",
+        "regionId": 102,
+        "city": "Вишневе",
+        "street": "Першотравнева",
+        "building": "26-А",
+        "text": "Першотравнева, д. 26-А"
+      },
+      "active": true,
+      "phone": {
+
+      },
+      "code": "7458",
+      "workTime": {
+        "mo": [],
+        "tu": [],
+        "we": [],
+        "th": [],
+        "fr": [],
+        "sa": [],
+        "su": []
+      },
+      "name": "м. Вишневе, ТЦ Novus, вул. Першотравнева, 26"
+    },
+    {
+      "description": "Магазин",
+      "type": "store-type-supplier",
+      "inventoryType": "integer",
+      "address": {
+        "countryIso": "UA",
+        "region": "Киев область",
+        "regionId": 91,
+        "city": "Київ",
+        "street": "пр-т Володимира Івасюка",
+        "building": "8",
+        "text": "пр-т Володимира Івасюка, д. 8"
+      },
+      "active": true,
+      "phone": {
+
+      },
+      "code": "7447",
+      "workTime": {
+        "mo": [],
+        "tu": [],
+        "we": [],
+        "th": [],
+        "fr": [],
+        "sa": [],
+        "su": []
+      },
+      "name": "м. Київ, пр-т Володимира Івасюка, 8"
+    },
+    {
+      "description": "Магазин",
+      "type": "store-type-supplier",
+      "inventoryType": "integer",
+      "address": {
+        "countryIso": "UA",
+        "region": "Киев область",
+        "regionId": 91,
+        "city": "Київ",
+        "street": "Іоанна Павла ІІ",
+        "building": "5",
+        "text": "Іоанна Павла ІІ, д. 5"
+      },
+      "active": true,
+      "phone": {
+
+      },
+      "code": "7385",
+      "workTime": {
+        "mo": [],
+        "tu": [],
+        "we": [],
+        "th": [],
+        "fr": [],
+        "sa": [],
+        "su": []
+      },
+      "name": "м. Київ, ТЦ Good Life, вул. Іоанна Павла II, 5"
+    },
+    {
+      "description": "Магазин",
+      "type": "store-type-supplier",
+      "inventoryType": "integer",
+      "address": {
+        "countryIso": "UA",
+        "region": "Киев область",
+        "regionId": 91,
+        "city": "Київ",
+        "street": "Спортивна",
+        "building": "1а",
+        "text": "Спортивна, д. 1а"
+      },
+      "active": true,
+      "phone": {
+
+      },
+      "code": "5390",
+      "workTime": {
+        "mo": [],
+        "tu": [],
+        "we": [],
+        "th": [],
+        "fr": [],
+        "sa": [],
+        "su": []
+      },
+      "name": "м. Київ, ТРЦ Gulliver, Спортивна площа, 1a"
+    },
+    {
+      "description": "Магазин",
+      "type": "store-type-supplier",
+      "inventoryType": "integer",
+      "address": {
+        "countryIso": "UA",
+        "region": "Киев область",
+        "regionId": 91,
+        "city": "Київ",
+        "street": "Оболонський",
+        "building": "21-Б",
+        "text": "Оболонський, д. 21-Б"
+      },
+      "active": true,
+      "phone": {
+
+      },
+      "code": "5239",
+      "workTime": {
+        "mo": [],
+        "tu": [],
+        "we": [],
+        "th": [],
+        "fr": [],
+        "sa": [],
+        "su": []
+      },
+      "name": "м. Київ, ТРЦ Dream berry, пр-т. Оболонський, 21-Б"
+    },
+    {
+      "description": "Магазин",
+      "type": "store-type-supplier",
+      "inventoryType": "integer",
+      "address": {
+        "countryIso": "UA",
+        "region": "Киевская область",
+        "regionId": 102,
+        "city": "Софіївська Борщагівка",
+        "street": "Соборна",
+        "building": "140-А",
+        "text": "Соборна, д. 140-А"
+      },
+      "active": true,
+      "phone": {
+
+      },
+      "code": "7391",
+      "workTime": {
+        "mo": [],
+        "tu": [],
+        "we": [],
+        "th": [],
+        "fr": [],
+        "sa": [],
+        "su": []
+      },
+      "name": "с. Софіївська Борщагівка, ТРЦ Європарк, вул. Соборна, 140-A"
+    },
+    {
+      "description": "Магазин",
+      "type": "store-type-supplier",
+      "inventoryType": "integer",
+      "address": {
+        "countryIso": "UA",
+        "region": "Киевская область",
+        "regionId": 102,
+        "city": "Ірпінь",
+        "street": "Центральна",
+        "building": "29",
+        "text": "Центральна, д. 29"
+      },
+      "active": true,
+      "phone": {
+
+      },
+      "code": "5990",
+      "workTime": {
+        "mo": [],
+        "tu": [],
+        "we": [],
+        "th": [],
+        "fr": [],
+        "sa": [],
+        "su": []
+      },
+      "name": "м. Ірпінь, ТЦ Irpin City, вул. Центральна, 29"
+    },
+    {
+      "description": "Магазин",
+      "type": "store-type-supplier",
+      "inventoryType": "integer",
+      "address": {
+        "countryIso": "UA",
+        "region": "Киев область",
+        "regionId": 91,
+        "city": "Київ",
+        "street": "Самійла Кішки",
+        "building": "10",
+        "text": "Самійла Кішки, д. 10"
+      },
+      "active": true,
+      "phone": {
+
+      },
+      "code": "7429",
+      "workTime": {
+        "mo": [],
+        "tu": [],
+        "we": [],
+        "th": [],
+        "fr": [],
+        "sa": [],
+        "su": []
+      },
+      "name": "м. Київ, вул. Самійла Кішки 10/1 Маршала Конєва"
+    },
+    {
+      "description": "Магазин",
+      "type": "store-type-supplier",
+      "inventoryType": "integer",
+      "address": {
+        "countryIso": "UA",
+        "region": "Киев область",
+        "regionId": 91,
+        "city": "Київ",
+        "street": "Берковецька",
+        "building": "6-Д",
+        "text": "Берковецька, д. 6-Д"
+      },
+      "active": true,
+      "phone": {
+
+      },
+      "code": "6137",
+      "workTime": {
+        "mo": [],
+        "tu": [],
+        "we": [],
+        "th": [],
+        "fr": [],
+        "sa": [],
+        "su": []
+      },
+      "name": "м. Київ, ТРЦ Lavina Mall, вул. Берковецька, 6-Д"
+    },
+    {
+      "description": "Магазин",
+      "type": "store-type-supplier",
+      "inventoryType": "integer",
+      "address": {
+        "countryIso": "UA",
+        "region": "Киев область",
+        "regionId": 91,
+        "city": "Київ",
+        "street": "Лесі Українки",
+        "building": "24",
+        "text": "Лесі Українки, д. 24"
+      },
+      "active": true,
+      "phone": {
+
+      },
+      "code": "5713",
+      "workTime": {
+        "mo": [],
+        "tu": [],
+        "we": [],
+        "th": [],
+        "fr": [],
+        "sa": [],
+        "su": []
+      },
+      "name": "м. Київ, бульвар Лесі Українки, 24"
+    },
+    {
+      "description": "Магазин",
+      "type": "store-type-supplier",
+      "inventoryType": "integer",
+      "address": {
+        "countryIso": "UA",
+        "region": "Киев область",
+        "regionId": 91,
+        "city": "Київ",
+        "street": "Бажана Миколи",
+        "building": "8",
+        "text": "Бажана Миколи, д. 8"
+      },
+      "active": true,
+      "phone": {
+
+      },
+      "code": "6371",
+      "workTime": {
+        "mo": [],
+        "tu": [],
+        "we": [],
+        "th": [],
+        "fr": [],
+        "sa": [],
+        "su": []
+      },
+      "name": "м. Київ, ТЦ Novus, просп. Миколи Бажана, 8"
+    },
+    {
+      "description": "Магазин",
+      "type": "store-type-supplier",
+      "inventoryType": "integer",
+      "address": {
+        "countryIso": "UA",
+        "region": "Киев область",
+        "regionId": 91,
+        "city": "Київ",
+        "street": "Вербицького Архітектора",
+        "building": "1",
+        "text": "Вербицького Архітектора, д. 1"
+      },
+      "active": true,
+      "phone": {
+
+      },
+      "code": "5839",
+      "workTime": {
+        "mo": [],
+        "tu": [],
+        "we": [],
+        "th": [],
+        "fr": [],
+        "sa": [],
+        "su": []
+      },
+      "name": "м. Київ, ТЦ New Way, вул. Архітектора Вербицького, 1"
+    },
+    {
+      "description": "Магазин",
+      "type": "store-type-supplier",
+      "inventoryType": "integer",
+      "address": {
+        "countryIso": "UA",
+        "region": "Киев область",
+        "regionId": 91,
+        "city": "Київ",
+        "street": "Антоновича",
+        "building": "176",
+        "text": "Антоновича, д. 176"
+      },
+      "active": true,
+      "phone": {
+
+      },
+      "code": "1356",
+      "workTime": {
+        "mo": [],
+        "tu": [],
+        "we": [],
+        "th": [],
+        "fr": [],
+        "sa": [],
+        "su": []
+      },
+      "name": "м. Київ, ТРЦ Ocean Plaza, вул. Антоновича, 176"
+    },
+    {
+      "description": "Магазин",
+      "type": "store-type-supplier",
+      "inventoryType": "integer",
+      "address": {
+        "countryIso": "UA",
+        "region": "Киев область",
+        "regionId": 91,
+        "city": "Київ",
+        "street": "Дніпровська",
+        "building": "33",
+        "text": "Дніпровська, д. 33"
+      },
+      "active": true,
+      "phone": {
+
+      },
+      "code": "3022",
+      "workTime": {
+        "mo": [],
+        "tu": [],
+        "we": [],
+        "th": [],
+        "fr": [],
+        "sa": [],
+        "su": []
+      },
+      "name": "м. Київ, ТЦ Аркадія, Дніпровська набережна, 33"
+    },
+    {
+      "description": "Магазин",
+      "type": "store-type-supplier",
+      "inventoryType": "integer",
+      "address": {
+        "countryIso": "UA",
+        "region": "Киев область",
+        "regionId": 91,
+        "city": "Київ",
+        "street": "Мишуги Олександра",
+        "building": "4",
+        "text": "Мишуги Олександра, д. 4"
+      },
+      "active": true,
+      "phone": {
+
+      },
+      "code": "7423",
+      "workTime": {
+        "mo": [],
+        "tu": [],
+        "we": [],
+        "th": [],
+        "fr": [],
+        "sa": [],
+        "su": []
+      },
+      "name": "м. Київ, ТРЦ Piramida, вул. Олександра Мишуги, 4"
+    },
+    {
+      "description": "Магазин",
+      "type": "store-type-supplier",
+      "inventoryType": "integer",
+      "address": {
+        "countryIso": "UA",
+        "region": "Киев область",
+        "regionId": 91,
+        "city": "Київ",
+        "street": "Берестейський",
+        "building": "17",
+        "text": "Берестейський, д. 17"
+      },
+      "active": true,
+      "phone": {
+
+      },
+      "code": "7461",
+      "workTime": {
+        "mo": [],
+        "tu": [],
+        "we": [],
+        "th": [],
+        "fr": [],
+        "sa": [],
+        "su": []
+      },
+      "name": "м. Київ, пр-т. Берестейський, 17 пр-т. Перемоги"
+    },
+    {
+      "description": "Магазин",
+      "type": "store-type-supplier",
+      "inventoryType": "integer",
+      "address": {
+        "countryIso": "UA",
+        "region": "Киев область",
+        "regionId": 91,
+        "city": "Київ",
+        "street": "Хоткевича Гната",
+        "building": "1-В",
+        "text": "Хоткевича Гната, д. 1-В"
+      },
+      "active": true,
+      "phone": {
+
+      },
+      "code": "5388",
+      "workTime": {
+        "mo": [],
+        "tu": [],
+        "we": [],
+        "th": [],
+        "fr": [],
+        "sa": [],
+        "su": []
+      },
+      "name": "м. Київ, ТРЦ Проспект, вул. Гната Хоткевича, 1-В"
+    },
+    {
+      "description": "Магазин",
+      "type": "store-type-supplier",
+      "inventoryType": "integer",
+      "address": {
+        "countryIso": "UA",
+        "region": "Киев область",
+        "regionId": 91,
+        "city": "Київ",
+        "street": "Лаврухіна Миколи",
+        "building": "4",
+        "text": "Лаврухіна Миколи, д. 4"
+      },
+      "active": true,
+      "phone": {
+
+      },
+      "code": "5377",
+      "workTime": {
+        "mo": [],
+        "tu": [],
+        "we": [],
+        "th": [],
+        "fr": [],
+        "sa": [],
+        "su": []
+      },
+      "name": "м. Київ, ТРЦ Район, вул. Лаврухіна, 4"
+    },
+    {
+      "description": "Магазин",
+      "type": "store-type-supplier",
+      "inventoryType": "integer",
+      "address": {
+        "countryIso": "UA",
+        "region": "Киев область",
+        "regionId": 91,
+        "city": "Київ",
+        "street": "Кільцева",
+        "building": "1",
+        "text": "Кільцева, д. 1"
+      },
+      "active": true,
+      "phone": {
+
+      },
+      "code": "7443",
+      "workTime": {
+        "mo": [],
+        "tu": [],
+        "we": [],
+        "th": [],
+        "fr": [],
+        "sa": [],
+        "su": []
+      },
+      "name": "м. Київ, ТРЦ Республіка, Кільцева дорога, 1"
+    },
+    {
+      "description": "Магазин",
+      "type": "store-type-supplier",
+      "inventoryType": "integer",
+      "address": {
+        "countryIso": "UA",
+        "region": "Киев область",
+        "regionId": 91,
+        "city": "Київ",
+        "street": "Дніпровська",
+        "building": "12",
+        "text": "Дніпровська, д. 12"
+      },
+      "active": true,
+      "phone": {
+
+      },
+      "code": "7397",
+      "workTime": {
+        "mo": [],
+        "tu": [],
+        "we": [],
+        "th": [],
+        "fr": [],
+        "sa": [],
+        "su": []
+      },
+      "name": "м. Київ, ТРЦ River Mall, Дніпровська набережна, 12"
+    },
+    {
+      "description": "Магазин",
+      "type": "store-type-supplier",
+      "inventoryType": "integer",
+      "address": {
+        "countryIso": "UA",
+        "region": "Киев область",
+        "regionId": 91,
+        "city": "Київ",
+        "street": "Русанівський",
+        "building": "1",
+        "text": "Русанівський, д. 1"
+      },
+      "active": true,
+      "phone": {
+
+      },
+      "code": "7414",
+      "workTime": {
+        "mo": [],
+        "tu": [],
+        "we": [],
+        "th": [],
+        "fr": [],
+        "sa": [],
+        "su": []
+      },
+      "name": "м. Київ, бульвар Русанівський, 1"
+    },
+    {
+      "description": "Магазин",
+      "type": "store-type-supplier",
+      "inventoryType": "integer",
+      "address": {
+        "countryIso": "UA",
+        "region": "Киев область",
+        "regionId": 91,
+        "city": "Київ",
+        "street": "Русової Софії",
+        "building": "3",
+        "text": "Русової Софії, д. 3"
+      },
+      "active": true,
+      "phone": {
+
+      },
+      "code": "7419",
+      "workTime": {
+        "mo": [],
+        "tu": [],
+        "we": [],
+        "th": [],
+        "fr": [],
+        "sa": [],
+        "su": []
+      },
+      "name": "м. Київ, вул. Софії Русової, 3"
+    },
+    {
+      "description": "Магазин",
+      "type": "store-type-supplier",
+      "inventoryType": "integer",
+      "address": {
+        "countryIso": "UA",
+        "region": "Киев область",
+        "regionId": 91,
+        "city": "Київ",
+        "street": "Січових Стрільців",
+        "building": "77",
+        "text": "Січових Стрільців, д. 77"
+      },
+      "active": true,
+      "phone": {
+
+      },
+      "code": "7428",
+      "workTime": {
+        "mo": [],
+        "tu": [],
+        "we": [],
+        "th": [],
+        "fr": [],
+        "sa": [],
+        "su": []
+      },
+      "name": "м. Київ, вул. Січових Стрільців, 77"
+    },
+    {
+      "description": "Магазин",
+      "type": "store-type-supplier",
+      "inventoryType": "integer",
+      "address": {
+        "countryIso": "UA",
+        "region": "Киев область",
+        "regionId": 91,
+        "city": "Київ",
+        "street": "Романа Шухевича",
+        "building": "2-т",
+        "text": "Романа Шухевича, д. 2-т"
+      },
+      "active": true,
+      "phone": {
+
+      },
+      "code": "7400",
+      "workTime": {
+        "mo": [],
+        "tu": [],
+        "we": [],
+        "th": [],
+        "fr": [],
+        "sa": [],
+        "su": []
+      },
+      "name": "м. Київ, ТРЦ Sky Mall, пр-т. Романа Шухевича, 2т"
+    },
+    {
+      "description": "Магазин",
+      "type": "store-type-supplier",
+      "inventoryType": "integer",
+      "address": {
+        "countryIso": "UA",
+        "region": "Киевская область",
+        "regionId": 102,
+        "city": "Щасливе",
+        "street": "Бориспільське шосе",
+        "building": "1",
+        "text": "Бориспільське шосе, д. 1"
+      },
+      "active": true,
+      "phone": {
+
+      },
+      "code": "7432",
+      "workTime": {
+        "mo": [],
+        "tu": [],
+        "we": [],
+        "th": [],
+        "fr": [],
+        "sa": [],
+        "su": []
+      },
+      "name": "с. Щасливе, Супермаркет Сільпо, Бориспільське шосе, 1"
+    },
+    {
+      "description": "Магазин",
+      "type": "store-type-supplier",
+      "inventoryType": "integer",
+      "address": {
+        "countryIso": "UA",
+        "region": "Киев область",
+        "regionId": 91,
+        "city": "Київ",
+        "street": "Попудренка",
+        "building": "9г",
+        "text": "Попудренка, д. 9г"
+      },
+      "active": true,
+      "phone": {
+
+      },
+      "code": "7474",
+      "workTime": {
+        "mo": [],
+        "tu": [],
+        "we": [],
+        "th": [],
+        "fr": [],
+        "sa": [],
+        "su": []
+      },
+      "name": "м. Київ, магазин Фора, вул. Попудренко, 9г"
+    },
+    {
+      "description": "Магазин",
+      "type": "store-type-supplier",
+      "inventoryType": "integer",
+      "address": {
+        "countryIso": "UA",
+        "region": "Киев область",
+        "regionId": 91,
+        "city": "Київ",
+        "street": "пр-т. Берестейський",
+        "building": "134/1",
+        "text": "пр-т. Берестейський, д. 134/1"
+      },
+      "active": true,
+      "phone": {
+
+      },
+      "code": "7436",
+      "workTime": {
+        "mo": [],
+        "tu": [],
+        "we": [],
+        "th": [],
+        "fr": [],
+        "sa": [],
+        "su": []
+      },
+      "name": "м. Київ, ТРЦ Хіт Mall, пр-т. Берестейський, 134/1, пр-т. Перемоги"
+    },
+    {
+      "description": "Магазин",
+      "type": "store-type-supplier",
+      "inventoryType": "integer",
+      "address": {
+        "countryIso": "UA",
+        "region": "Киев область",
+        "regionId": 91,
+        "city": "Київ",
+        "street": "Ярославська",
+        "building": "56",
+        "text": "Ярославська, д. 56"
+      },
+      "active": true,
+      "phone": {
+
+      },
+      "code": "7421",
+      "workTime": {
+        "mo": [],
+        "tu": [],
+        "we": [],
+        "th": [],
+        "fr": [],
+        "sa": [],
+        "su": []
+      },
+      "name": "м. Київ, вул. Ярославська, 56"
+    },
+    {
+      "description": "Магазин",
+      "type": "store-type-supplier",
+      "inventoryType": "integer",
+      "address": {
+        "countryIso": "UA",
+        "region": "Киевская область",
+        "regionId": 102,
+        "city": "Буча",
+        "street": "Бірюкова Леоніда",
+        "building": "2",
+        "text": "Бірюкова Леоніда, д. 2"
+      },
+      "active": true,
+      "phone": {
+
+      },
+      "code": "7449",
+      "workTime": {
+        "mo": [],
+        "tu": [],
+        "we": [],
+        "th": [],
+        "fr": [],
+        "sa": [],
+        "su": []
+      },
+      "name": "м. Буча, ТЦ Avenir Plaza, бул. Леоніда Бірюкова, 2"
+    },
+    {
+      "description": "Магазин",
+      "type": "store-type-supplier",
+      "inventoryType": "integer",
+      "address": {
+        "countryIso": "UA",
+        "region": "Киев область",
+        "regionId": 91,
+        "city": "Київ",
+        "street": "Соборності",
+        "building": "2/1А",
+        "text": "Соборності, д. 2/1А"
+      },
+      "active": true,
+      "phone": {
+
+      },
+      "code": "7482",
+      "workTime": {
+        "mo": [],
+        "tu": [],
+        "we": [],
+        "th": [],
+        "fr": [],
+        "sa": [],
+        "su": []
+      },
+      "name": "м. Київ, ТЦ Дарниця, пр-т. Соборності 2/1А"
+    },
+    {
+      "description": "Магазин",
+      "type": "store-type-supplier",
+      "inventoryType": "integer",
+      "address": {
+        "countryIso": "UA",
+        "region": "Винницкая область",
+        "regionId": 104,
+        "city": "Вінниця",
+        "street": "Космонавтів",
+        "building": "49",
+        "text": "Космонавтів, д. 49"
+      },
+      "active": true,
+      "phone": {
+
+      },
+      "code": "7444",
+      "workTime": {
+        "mo": [],
+        "tu": [],
+        "we": [],
+        "th": [],
+        "fr": [],
+        "sa": [],
+        "su": []
+      },
+      "name": "м. Вінниця, ЖК Premier Tower, пр-т. Космонавтів, 49"
+    },
+    {
+      "description": "Магазин",
+      "type": "store-type-supplier",
+      "inventoryType": "integer",
+      "address": {
+        "countryIso": "UA",
+        "region": "Винницкая область",
+        "regionId": 104,
+        "city": "Вінниця",
+        "street": "Соборна",
+        "building": "24",
+        "text": "Соборна, д. 24"
+      },
+      "active": true,
+      "phone": {
+
+      },
+      "code": "7379",
+      "workTime": {
+        "mo": [],
+        "tu": [],
+        "we": [],
+        "th": [],
+        "fr": [],
+        "sa": [],
+        "su": []
+      },
+      "name": "м. Вінниця, ТЦ Sky Park, вул. Соборна, 24"
+    },
+    {
+      "description": "Магазин",
+      "type": "store-type-supplier",
+      "inventoryType": "integer",
+      "address": {
+        "countryIso": "UA",
+        "region": "Днепропетровская область",
+        "regionId": 114,
+        "city": "Дніпро",
+        "street": "Олександра Поля",
+        "building": "14",
+        "text": "Олександра Поля, д. 14"
+      },
+      "active": true,
+      "phone": {
+
+      },
+      "code": "7438",
+      "workTime": {
+        "mo": [],
+        "tu": [],
+        "we": [],
+        "th": [],
+        "fr": [],
+        "sa": [],
+        "su": []
+      },
+      "name": "м. Дніпро, просп. О. Поля, 14"
+    },
+    {
+      "description": "Магазин",
+      "type": "store-type-supplier",
+      "inventoryType": "integer",
+      "address": {
+        "countryIso": "UA",
+        "region": "Днепропетровская область",
+        "regionId": 114,
+        "city": "Дніпро",
+        "street": "Слави",
+        "building": "40",
+        "text": "Слави, д. 40"
+      },
+      "active": true,
+      "phone": {
+
+      },
+      "code": "7450",
+      "workTime": {
+        "mo": [],
+        "tu": [],
+        "we": [],
+        "th": [],
+        "fr": [],
+        "sa": [],
+        "su": []
+      },
+      "name": "м. Дніпро, бул. Слави, 40"
+    },
+    {
+      "description": "Магазин",
+      "type": "store-type-supplier",
+      "inventoryType": "integer",
+      "address": {
+        "countryIso": "UA",
+        "region": "Днепропетровская область",
+        "regionId": 114,
+        "city": "Дніпро",
+        "street": "Зоряний",
+        "building": "1-А",
+        "text": "Зоряний, д. 1-А"
+      },
+      "active": true,
+      "phone": {
+
+      },
+      "code": "3001",
+      "workTime": {
+        "mo": [],
+        "tu": [],
+        "we": [],
+        "th": [],
+        "fr": [],
+        "sa": [],
+        "su": []
+      },
+      "name": "м. Дніпро, ТРЦ Дафі, бул. Зоряний, 1-А"
+    },
+    {
+      "description": "Магазин",
+      "type": "store-type-supplier",
+      "inventoryType": "integer",
+      "address": {
+        "countryIso": "UA",
+        "region": "Днепропетровская область",
+        "regionId": 114,
+        "city": "Дніпро",
+        "street": "Нижньодніпровська",
+        "building": "17",
+        "text": "Нижньодніпровська, д. 17"
+      },
+      "active": false,
+      "phone": {
+
+      },
+      "code": "3012",
+      "workTime": {
+        "mo": [],
+        "tu": [],
+        "we": [],
+        "th": [],
+        "fr": [],
+        "sa": [],
+        "su": []
+      },
+      "name": "м. Дніпро, ТРЦ Караван, вул. Нижньодніпровська, 17"
+    },
+    {
+      "description": "Магазин",
+      "type": "store-type-supplier",
+      "inventoryType": "integer",
+      "address": {
+        "countryIso": "UA",
+        "region": "Днепропетровская область",
+        "regionId": 114,
+        "city": "Дніпро",
+        "street": "Героїв",
+        "building": "3",
+        "text": "Героїв, д. 3"
+      },
+      "active": true,
+      "phone": {
+
+      },
+      "code": "7412",
+      "workTime": {
+        "mo": [],
+        "tu": [],
+        "we": [],
+        "th": [],
+        "fr": [],
+        "sa": [],
+        "su": []
+      },
+      "name": "м. Дніпро, ТЦ Кодак, пр-т. Героїв, 3"
+    },
+    {
+      "description": "Магазин",
+      "type": "store-type-supplier",
+      "inventoryType": "integer",
+      "address": {
+        "countryIso": "UA",
+        "region": "Днепропетровская область",
+        "regionId": 114,
+        "city": "Дніпро",
+        "street": "Володимира Мономаха",
+        "building": "7",
+        "text": "Володимира Мономаха, д. 7"
+      },
+      "active": true,
+      "phone": {
+
+      },
+      "code": "7437",
+      "workTime": {
+        "mo": [],
+        "tu": [],
+        "we": [],
+        "th": [],
+        "fr": [],
+        "sa": [],
+        "su": []
+      },
+      "name": "м. Дніпро, вул. Мономаха, 7"
+    },
+    {
+      "description": "Магазин",
+      "type": "store-type-supplier",
+      "inventoryType": "integer",
+      "address": {
+        "countryIso": "UA",
+        "region": "Днепропетровская область",
+        "regionId": 114,
+        "city": "Дніпро",
+        "street": "Марії Кюрі",
+        "building": "5",
+        "text": "Марії Кюрі, д. 5"
+      },
+      "active": true,
+      "phone": {
+
+      },
+      "code": "7408",
+      "workTime": {
+        "mo": [],
+        "tu": [],
+        "we": [],
+        "th": [],
+        "fr": [],
+        "sa": [],
+        "su": []
+      },
+      "name": "м. Дніпро, ТРЦ Neo Plaza, вул. Марії Кюрі, 5"
+    },
+    {
+      "description": "Магазин",
+      "type": "store-type-supplier",
+      "inventoryType": "integer",
+      "address": {
+        "countryIso": "UA",
+        "region": "Житомирская область",
+        "regionId": 97,
+        "city": "Житомир",
+        "street": "Київська",
+        "building": "77",
+        "text": "Київська, д. 77"
+      },
+      "active": true,
+      "phone": {
+
+      },
+      "code": "4860",
+      "workTime": {
+        "mo": [],
+        "tu": [],
+        "we": [],
+        "th": [],
+        "fr": [],
+        "sa": [],
+        "su": []
+      },
+      "name": "м. Житомир, ТРЦ Глобал UА, вулиця Київська, 77"
+    },
+    {
+      "description": "Магазин",
+      "type": "store-type-supplier",
+      "inventoryType": "integer",
+      "address": {
+        "countryIso": "UA",
+        "region": "Житомирская область",
+        "regionId": 97,
+        "city": "Житомир",
+        "street": "Михайла Грушевського",
+        "building": "5",
+        "text": "Михайла Грушевського, д. 5"
+      },
+      "active": true,
+      "phone": {
+
+      },
+      "code": "7424",
+      "workTime": {
+        "mo": [],
+        "tu": [],
+        "we": [],
+        "th": [],
+        "fr": [],
+        "sa": [],
+        "su": []
+      },
+      "name": "м. Житомир, ТЦ OLDI, вул. Михайла Грушевського, 5"
+    },
+    {
+      "description": "Магазин",
+      "type": "store-type-supplier",
+      "inventoryType": "integer",
+      "address": {
+        "countryIso": "UA",
+        "region": "Запорожская область",
+        "regionId": 105,
+        "city": "Запоріжжя",
+        "street": "Українська",
+        "building": "2Ж",
+        "text": "Українська, д. 2Ж"
+      },
+      "active": true,
+      "phone": {
+
+      },
+      "code": "7445",
+      "workTime": {
+        "mo": [],
+        "tu": [],
+        "we": [],
+        "th": [],
+        "fr": [],
+        "sa": [],
+        "su": []
+      },
+      "name": "м. Запоріжжя, вул. Українська 2ж"
+    },
+    {
+      "description": "Магазин",
+      "type": "store-type-supplier",
+      "inventoryType": "integer",
+      "address": {
+        "countryIso": "UA",
+        "region": "Запорожская область",
+        "regionId": 105,
+        "city": "Запоріжжя",
+        "street": "Запорізька",
+        "building": "1-Б",
+        "text": "Запорізька, д. 1-Б"
+      },
+      "active": true,
+      "phone": {
+
+      },
+      "code": "5212",
+      "workTime": {
+        "mo": [],
+        "tu": [],
+        "we": [],
+        "th": [],
+        "fr": [],
+        "sa": [],
+        "su": []
+      },
+      "name": "м. Запоріжжя, ТРЦ City Mall, вул. Запорізька, 1-Б"
+    },
+    {
+      "description": "Магазин",
+      "type": "store-type-supplier",
+      "inventoryType": "integer",
+      "address": {
+        "countryIso": "UA",
+        "region": "Запорожская область",
+        "regionId": 105,
+        "city": "Запоріжжя",
+        "street": "Соборний",
+        "building": "145",
+        "text": "Соборний, д. 145"
+      },
+      "active": true,
+      "phone": {
+
+      },
+      "code": "6211",
+      "workTime": {
+        "mo": [],
+        "tu": [],
+        "we": [],
+        "th": [],
+        "fr": [],
+        "sa": [],
+        "su": []
+      },
+      "name": "м. Запоріжжя, просп. Соборний, 145"
+    },
+    {
+      "description": "Магазин",
+      "type": "store-type-supplier",
+      "inventoryType": "integer",
+      "address": {
+        "countryIso": "UA",
+        "region": "Ивано-Франковская область",
+        "regionId": 115,
+        "city": "Івано-Франківськ",
+        "street": "Олександра Довженка",
+        "building": "61",
+        "text": "Олександра Довженка, д. 61"
+      },
+      "active": true,
+      "phone": {
+
+      },
+      "code": "7469",
+      "workTime": {
+        "mo": [],
+        "tu": [],
+        "we": [],
+        "th": [],
+        "fr": [],
+        "sa": [],
+        "su": []
+      },
+      "name": "м. Івано-Франківськ, вул. О.Довженко, 61"
+    },
+    {
+      "description": "Магазин",
+      "type": "store-type-supplier",
+      "inventoryType": "integer",
+      "address": {
+        "countryIso": "UA",
+        "region": "Ивано-Франковская область",
+        "regionId": 115,
+        "city": "Івано-Франківськ",
+        "street": "Івана Миколайчука",
+        "building": "6",
+        "text": "Івана Миколайчука, д. 6"
+      },
+      "active": true,
+      "phone": {
+
+      },
+      "code": "7470",
+      "workTime": {
+        "mo": [],
+        "tu": [],
+        "we": [],
+        "th": [],
+        "fr": [],
+        "sa": [],
+        "su": []
+      },
+      "name": "м. Івано-Франківськ, вул. Івана Миколайчука, 6"
+    },
+    {
+      "description": "Магазин",
+      "type": "store-type-supplier",
+      "inventoryType": "integer",
+      "address": {
+        "countryIso": "UA",
+        "region": "Ивано-Франковская область",
+        "regionId": 115,
+        "city": "Івано-Франківськ",
+        "street": "Пилипа Орлика",
+        "building": "8",
+        "text": "Пилипа Орлика, д. 8"
+      },
+      "active": true,
+      "phone": {
+
+      },
+      "code": "7483",
+      "workTime": {
+        "mo": [],
+        "tu": [],
+        "we": [],
+        "th": [],
+        "fr": [],
+        "sa": [],
+        "su": []
+      },
+      "name": "м. Івано-Франківськ, вул. Пилипа Орлика, 8"
+    },
+    {
+      "description": "Магазин",
+      "type": "store-type-supplier",
+      "inventoryType": "integer",
+      "address": {
+        "countryIso": "UA",
+        "region": "Днепропетровская область",
+        "regionId": 114,
+        "city": "Кривий Ріг",
+        "street": "30 років Перемоги",
+        "building": "1",
+        "text": "30 років Перемоги, д. 1"
+      },
+      "active": true,
+      "phone": {
+
+      },
+      "code": "4899",
+      "workTime": {
+        "mo": [],
+        "tu": [],
+        "we": [],
+        "th": [],
+        "fr": [],
+        "sa": [],
+        "su": []
+      },
+      "name": "м. Кривий Ріг, ТРЦ Сонячна галерея, пл. 30-річчя Перемоги, 1"
+    },
+    {
+      "description": "Магазин",
+      "type": "store-type-supplier",
+      "inventoryType": "integer",
+      "address": {
+        "countryIso": "UA",
+        "region": "Днепропетровская область",
+        "regionId": 114,
+        "city": "Кривий Ріг",
+        "street": "Гагаріна",
+        "building": "55",
+        "text": "Гагаріна, д. 55"
+      },
+      "active": true,
+      "phone": {
+
+      },
+      "code": "7455",
+      "workTime": {
+        "mo": [],
+        "tu": [],
+        "we": [],
+        "th": [],
+        "fr": [],
+        "sa": [],
+        "su": []
+      },
+      "name": "м. Кривий Ріг, пр-т Гагаріна, 55"
+    },
+    {
+      "description": "Магазин",
+      "type": "store-type-supplier",
+      "inventoryType": "integer",
+      "address": {
+        "countryIso": "UA",
+        "region": "Днепропетровская область",
+        "regionId": 114,
+        "city": "Кривий Ріг",
+        "street": "Поштовий",
+        "building": "35-Б",
+        "text": "Поштовий, д. 35-Б"
+      },
+      "active": true,
+      "phone": {
+
+      },
+      "code": "3010",
+      "workTime": {
+        "mo": [],
+        "tu": [],
+        "we": [],
+        "th": [],
+        "fr": [],
+        "sa": [],
+        "su": []
+      },
+      "name": "м. Кривий Ріг, ТРЦ Ліберті, пр-т. Почтовий, 35-Б"
+    },
+    {
+      "description": "Магазин",
+      "type": "store-type-supplier",
+      "inventoryType": "integer",
+      "address": {
+        "countryIso": "UA",
+        "region": "Днепропетровская область",
+        "regionId": 114,
+        "city": "Кривий Ріг",
+        "street": "200-річчя Кривого Рогу",
+        "building": "24",
+        "text": "200-річчя Кривого Рогу, д. 24"
+      },
+      "active": true,
+      "phone": {
+
+      },
+      "code": "7381",
+      "workTime": {
+        "mo": [],
+        "tu": [],
+        "we": [],
+        "th": [],
+        "fr": [],
+        "sa": [],
+        "su": []
+      },
+      "name": "м. Кривий Ріг, ТЦ Проспект, пр-т 200-річчя Кривого Рогу, 24"
+    },
+    {
+      "description": "Магазин",
+      "type": "store-type-supplier",
+      "inventoryType": "integer",
+      "address": {
+        "countryIso": "UA",
+        "region": "Волынская область",
+        "regionId": 92,
+        "city": "Луцьк",
+        "street": "Волі",
+        "building": "12",
+        "text": "Волі, д. 12"
+      },
+      "active": true,
+      "phone": {
+
+      },
+      "code": "7464",
+      "workTime": {
+        "mo": [],
+        "tu": [],
+        "we": [],
+        "th": [],
+        "fr": [],
+        "sa": [],
+        "su": []
+      },
+      "name": "м. Луцьк, просп. Волі, 12"
+    },
+    {
+      "description": "Магазин",
+      "type": "store-type-supplier",
+      "inventoryType": "integer",
+      "address": {
+        "countryIso": "UA",
+        "region": "Волынская область",
+        "regionId": 92,
+        "city": "Луцьк",
+        "street": "Грушевського",
+        "building": "31",
+        "text": "Грушевського, д. 31"
+      },
+      "active": true,
+      "phone": {
+
+      },
+      "code": "7468",
+      "workTime": {
+        "mo": [],
+        "tu": [],
+        "we": [],
+        "th": [],
+        "fr": [],
+        "sa": [],
+        "su": []
+      },
+      "name": "м. Луцьк, просп. Грушевського, 31"
+    },
+    {
+      "description": "Магазин",
+      "type": "store-type-supplier",
+      "inventoryType": "integer",
+      "address": {
+        "countryIso": "UA",
+        "region": "Львовская область",
+        "regionId": 108,
+        "city": "Львів",
+        "street": "Червоної Калини",
+        "building": "60",
+        "text": "Червоної Калини, д. 60"
+      },
+      "active": true,
+      "phone": {
+
+      },
+      "code": "7442",
+      "workTime": {
+        "mo": [],
+        "tu": [],
+        "we": [],
+        "th": [],
+        "fr": [],
+        "sa": [],
+        "su": []
+      },
+      "name": "м. Львів, Супермаркет Арсен, пр-т. Червоної Калини, 60,"
+    },
+    {
+      "description": "Магазин",
+      "type": "store-type-supplier",
+      "inventoryType": "integer",
+      "address": {
+        "countryIso": "UA",
+        "region": "Львовская область",
+        "regionId": 108,
+        "city": "Львів",
+        "street": "Міцкевича",
+        "building": "5",
+        "text": "Міцкевича, д. 5"
+      },
+      "active": true,
+      "phone": {
+
+      },
+      "code": "7473",
+      "workTime": {
+        "mo": [],
+        "tu": [],
+        "we": [],
+        "th": [],
+        "fr": [],
+        "sa": [],
+        "su": []
+      },
+      "name": "м. Львів,  Супермаркет Арсен, пл. Адама Міцкевича, 5"
+    },
+    {
+      "description": "Магазин",
+      "type": "store-type-supplier",
+      "inventoryType": "integer",
+      "address": {
+        "countryIso": "UA",
+        "region": "Львовская область",
+        "regionId": 108,
+        "city": "Львів",
+        "street": "Володимира Великого",
+        "building": "58",
+        "text": "Володимира Великого, д. 58"
+      },
+      "active": true,
+      "phone": {
+
+      },
+      "code": "5667",
+      "workTime": {
+        "mo": [],
+        "tu": [],
+        "we": [],
+        "th": [],
+        "fr": [],
+        "sa": [],
+        "su": []
+      },
+      "name": "м. Львів, ТЦ Ашан, вул. Володимира Великого, 58"
+    },
+    {
+      "description": "Магазин",
+      "type": "store-type-supplier",
+      "inventoryType": "integer",
+      "address": {
+        "countryIso": "UA",
+        "region": "Львовская область",
+        "regionId": 108,
+        "city": "Львів",
+        "street": "В‘ячеслава Чорновола",
+        "building": "16і",
+        "text": "В‘ячеслава Чорновола, д. 16і"
+      },
+      "active": true,
+      "phone": {
+
+      },
+      "code": "7387",
+      "workTime": {
+        "mo": [],
+        "tu": [],
+        "we": [],
+        "th": [],
+        "fr": [],
+        "sa": [],
+        "su": []
+      },
+      "name": "м. Львів, ТЦ New Point, пр-т. В'ячеслава Чорновола, 16і"
+    },
+    {
+      "description": "Магазин",
+      "type": "store-type-supplier",
+      "inventoryType": "integer",
+      "address": {
+        "countryIso": "UA",
+        "region": "Львовская область",
+        "regionId": 108,
+        "city": "Львів",
+        "street": "Кульпарківська, 226а",
+        "building": "266-А",
+        "text": "Кульпарківська, 226а, д. 266-А"
+      },
+      "active": true,
+      "phone": {
+
+      },
+      "code": "5994",
+      "workTime": {
+        "mo": [],
+        "tu": [],
+        "we": [],
+        "th": [],
+        "fr": [],
+        "sa": [],
+        "su": []
+      },
+      "name": "м. Львів, ТРЦ Victoria Gardens, вул. Кульпарківська, 226-А"
+    },
+    {
+      "description": "Магазин",
+      "type": "store-type-supplier",
+      "inventoryType": "integer",
+      "address": {
+        "countryIso": "UA",
+        "region": "Львовская область",
+        "regionId": 108,
+        "city": "Львів",
+        "street": "Мазепи",
+        "building": "1-Б",
+        "text": "Мазепи, д. 1-Б"
+      },
+      "active": true,
+      "phone": {
+
+      },
+      "code": "7393",
+      "workTime": {
+        "mo": [],
+        "tu": [],
+        "we": [],
+        "th": [],
+        "fr": [],
+        "sa": [],
+        "su": []
+      },
+      "name": "м. Львів, СТРЦ Spartak, вул. Гетьмана Мазепи, 1-Б"
+    },
+    {
+      "description": "Магазин",
+      "type": "store-type-supplier",
+      "inventoryType": "integer",
+      "address": {
+        "countryIso": "UA",
+        "region": "Львовская область",
+        "regionId": 108,
+        "city": "Львів",
+        "street": "Стрийська",
+        "building": "45",
+        "text": "Стрийська, д. 45"
+      },
+      "active": true,
+      "phone": {
+
+      },
+      "code": "7459",
+      "workTime": {
+        "mo": [],
+        "tu": [],
+        "we": [],
+        "th": [],
+        "fr": [],
+        "sa": [],
+        "su": []
+      },
+      "name": "м. Львів, ТЦ Fabrik, вул. Стрийська, 45"
+    },
+    {
+      "description": "Магазин",
+      "type": "store-type-supplier",
+      "inventoryType": "integer",
+      "address": {
+        "countryIso": "UA",
+        "region": "Львовская область",
+        "regionId": 108,
+        "city": "Львів",
+        "street": "Під Дубом",
+        "building": "7-Б",
+        "text": "Під Дубом, д. 7-Б"
+      },
+      "active": true,
+      "phone": {
+
+      },
+      "code": "5671",
+      "workTime": {
+        "mo": [],
+        "tu": [],
+        "we": [],
+        "th": [],
+        "fr": [],
+        "sa": [],
+        "su": []
+      },
+      "name": "м. Львів, ТРЦ Forum Львів, вул. Під Дубом, 7-Б"
+    },
+    {
+      "description": "Магазин",
+      "type": "store-type-supplier",
+      "inventoryType": "integer",
+      "address": {
+        "countryIso": "UA",
+        "region": "Николаевская область",
+        "regionId": 94,
+        "city": "Миколаїв",
+        "street": "Лазурна",
+        "building": "17",
+        "text": "Лазурна, д. 17"
+      },
+      "active": true,
+      "phone": {
+
+      },
+      "code": "5691",
+      "workTime": {
+        "mo": [],
+        "tu": [],
+        "we": [],
+        "th": [],
+        "fr": [],
+        "sa": [],
+        "su": []
+      },
+      "name": "м. Миколаїв, ТЦ Таврія В, вул. Лазурна, 17"
+    },
+    {
+      "description": "Магазин",
+      "type": "store-type-supplier",
+      "inventoryType": "integer",
+      "address": {
+        "countryIso": "UA",
+        "region": "Одесская область",
+        "regionId": 101,
+        "city": "Одеса",
+        "street": "Генуезька",
+        "building": "5",
+        "text": "Генуезька, д. 5"
+      },
+      "active": true,
+      "phone": {
+
+      },
+      "code": "5729",
+      "workTime": {
+        "mo": [],
+        "tu": [],
+        "we": [],
+        "th": [],
+        "fr": [],
+        "sa": [],
+        "su": []
+      },
+      "name": "м. Одеса, ТРЦ Gagarinn-Plaza, вул. Генуезька, 5"
+    },
+    {
+      "description": "Магазин",
+      "type": "store-type-supplier",
+      "inventoryType": "integer",
+      "address": {
+        "countryIso": "UA",
+        "region": "Одесская область",
+        "regionId": 101,
+        "city": "Одеса",
+        "street": "Катерининська",
+        "building": "22",
+        "text": "Катерининська, д. 22"
+      },
+      "active": true,
+      "phone": {
+
+      },
+      "code": "7431",
+      "workTime": {
+        "mo": [],
+        "tu": [],
+        "we": [],
+        "th": [],
+        "fr": [],
+        "sa": [],
+        "su": []
+      },
+      "name": "м. Одеса, вул. Катерининська, 22"
+    },
+    {
+      "description": "Магазин",
+      "type": "store-type-supplier",
+      "inventoryType": "integer",
+      "address": {
+        "countryIso": "UA",
+        "region": "Одесская область",
+        "regionId": 101,
+        "city": "Одеса",
+        "street": "Давида Ойстраха",
+        "building": "32",
+        "text": "Давида Ойстраха, д. 32"
+      },
+      "active": true,
+      "phone": {
+
+      },
+      "code": "1640",
+      "workTime": {
+        "mo": [],
+        "tu": [],
+        "we": [],
+        "th": [],
+        "fr": [],
+        "sa": [],
+        "su": []
+      },
+      "name": "м. Одеса, ТРЦ City Котовського, вул. Давида Ойстраха, 32"
+    },
+    {
+      "description": "Магазин",
+      "type": "store-type-supplier",
+      "inventoryType": "integer",
+      "address": {
+        "countryIso": "UA",
+        "region": "Одесская область",
+        "regionId": 101,
+        "city": "Одеса",
+        "street": "Незалежності",
+        "building": "1",
+        "text": "Незалежності, д. 1"
+      },
+      "active": false,
+      "phone": {
+
+      },
+      "code": "5487",
+      "workTime": {
+        "mo": [],
+        "tu": [],
+        "we": [],
+        "th": [],
+        "fr": [],
+        "sa": [],
+        "su": []
+      },
+      "name": "м. Одеса, ТЦ Панорама, пл. Незалежності, 1"
+    },
+    {
+      "description": "Магазин",
+      "type": "store-type-supplier",
+      "inventoryType": "integer",
+      "address": {
+        "countryIso": "UA",
+        "region": "Одесская область",
+        "regionId": 101,
+        "city": "Одеса",
+        "street": "Небесної Сотні",
+        "building": "2",
+        "text": "Небесної Сотні, д. 2"
+      },
+      "active": true,
+      "phone": {
+
+      },
+      "code": "7427",
+      "workTime": {
+        "mo": [],
+        "tu": [],
+        "we": [],
+        "th": [],
+        "fr": [],
+        "sa": [],
+        "su": []
+      },
+      "name": "м. Одеса, ТРЦ City Center, пр-т. Небесної Сотні, 2"
+    },
+    {
+      "description": "Магазин",
+      "type": "store-type-supplier",
+      "inventoryType": "integer",
+      "address": {
+        "countryIso": "UA",
+        "region": "Полтавская область",
+        "regionId": 109,
+        "city": "Полтава",
+        "street": "Зінківська",
+        "building": "6/1А",
+        "text": "Зінківська, д. 6/1А"
+      },
+      "active": true,
+      "phone": {
+
+      },
+      "code": "7422",
+      "workTime": {
+        "mo": [],
+        "tu": [],
+        "we": [],
+        "th": [],
+        "fr": [],
+        "sa": [],
+        "su": []
+      },
+      "name": "м. Полтава, ТРЦ Київ, вул. Зіньківська 6/1А"
+    },
+    {
+      "description": "Магазин",
+      "type": "store-type-supplier",
+      "inventoryType": "integer",
+      "address": {
+        "countryIso": "UA",
+        "region": "Полтавская область",
+        "regionId": 109,
+        "city": "Полтава",
+        "street": "Соборності",
+        "building": "50",
+        "text": "Соборності, д. 50"
+      },
+      "active": true,
+      "phone": {
+
+      },
+      "code": "7460",
+      "workTime": {
+        "mo": [],
+        "tu": [],
+        "we": [],
+        "th": [],
+        "fr": [],
+        "sa": [],
+        "su": []
+      },
+      "name": "м. Полтава, вул. Соборності, 50"
+    },
+    {
+      "description": "Магазин",
+      "type": "store-type-supplier",
+      "inventoryType": "integer",
+      "address": {
+        "countryIso": "UA",
+        "region": "Полтавская область",
+        "regionId": 109,
+        "city": "Полтава",
+        "street": "Європейська",
+        "building": "185",
+        "text": "Європейська, д. 185"
+      },
+      "active": true,
+      "phone": {
+
+      },
+      "code": "5740",
+      "workTime": {
+        "mo": [],
+        "tu": [],
+        "we": [],
+        "th": [],
+        "fr": [],
+        "sa": [],
+        "su": []
+      },
+      "name": "м. Полтава, ТЦ Фуршет, вул. Європейська, 185"
+    },
+    {
+      "description": "Магазин",
+      "type": "store-type-supplier",
+      "inventoryType": "integer",
+      "address": {
+        "countryIso": "UA",
+        "region": "Полтавская область",
+        "regionId": 109,
+        "city": "Полтава",
+        "street": "Соборності",
+        "building": "28/13",
+        "text": "Соборності, д. 28/13"
+      },
+      "active": true,
+      "phone": {
+
+      },
+      "code": "5485",
+      "workTime": {
+        "mo": [],
+        "tu": [],
+        "we": [],
+        "th": [],
+        "fr": [],
+        "sa": [],
+        "su": []
+      },
+      "name": "м. Полтава, ТЦ ЦУМ, вул. Соборності, 28/13, 1-й поверх"
+    },
+    {
+      "description": "Магазин",
+      "type": "store-type-supplier",
+      "inventoryType": "integer",
+      "address": {
+        "countryIso": "UA",
+        "region": "Полтавская область",
+        "regionId": 109,
+        "city": "Полтава",
+        "street": "Ковпака",
+        "building": "26",
+        "text": "Ковпака, д. 26"
+      },
+      "active": true,
+      "phone": {
+
+      },
+      "code": "5448",
+      "workTime": {
+        "mo": [],
+        "tu": [],
+        "we": [],
+        "th": [],
+        "fr": [],
+        "sa": [],
+        "su": []
+      },
+      "name": "м. Полтава, ТРЦ Екватор, вул. Ковпака, 26"
+    },
+    {
+      "description": "Магазин",
+      "type": "store-type-supplier",
+      "inventoryType": "integer",
+      "address": {
+        "countryIso": "UA",
+        "region": "Сумская область",
+        "regionId": 116,
+        "city": "Суми",
+        "street": "Михайла Лушпи",
+        "building": "4",
+        "text": "Михайла Лушпи, д. 4"
+      },
+      "active": true,
+      "phone": {
+
+      },
+      "code": "6017",
+      "workTime": {
+        "mo": [],
+        "tu": [],
+        "we": [],
+        "th": [],
+        "fr": [],
+        "sa": [],
+        "su": []
+      },
+      "name": "м. Суми, ТРЦ Лавина, пр-т. Михайла Лушпи, 4"
+    },
+    {
+      "description": "Магазин",
+      "type": "store-type-supplier",
+      "inventoryType": "integer",
+      "address": {
+        "countryIso": "UA",
+        "region": "Сумская область",
+        "regionId": 116,
+        "city": "Суми",
+        "street": "Харківська",
+        "building": "2/2",
+        "text": "Харківська, д. 2/2"
+      },
+      "active": true,
+      "phone": {
+
+      },
+      "code": "5420",
+      "workTime": {
+        "mo": [],
+        "tu": [],
+        "we": [],
+        "th": [],
+        "fr": [],
+        "sa": [],
+        "su": []
+      },
+      "name": "м. Суми, ТРЦ Мануфактура, вул. Харківська, 2/2"
+    },
+    {
+      "description": "Магазин",
+      "type": "store-type-supplier",
+      "inventoryType": "integer",
+      "address": {
+        "countryIso": "UA",
+        "region": "Сумская область",
+        "regionId": 116,
+        "city": "Суми",
+        "street": "Петропавлівська",
+        "building": "72",
+        "text": "Петропавлівська, д. 72"
+      },
+      "active": true,
+      "phone": {
+
+      },
+      "code": "1862",
+      "workTime": {
+        "mo": [],
+        "tu": [],
+        "we": [],
+        "th": [],
+        "fr": [],
+        "sa": [],
+        "su": []
+      },
+      "name": "м. Суми, вул. Петропавлівська, 72"
+    },
+    {
+      "description": "Магазин",
+      "type": "store-type-supplier",
+      "inventoryType": "integer",
+      "address": {
+        "countryIso": "UA",
+        "region": "Тернопольская область",
+        "regionId": 96,
+        "city": "м. Тернопіль",
+        "street": "Київська",
+        "building": "11Б",
+        "text": "Київська, д. 11Б"
+      },
+      "active": true,
+      "phone": {
+
+      },
+      "code": "7466",
+      "workTime": {
+        "mo": [],
+        "tu": [],
+        "we": [],
+        "th": [],
+        "fr": [],
+        "sa": [],
+        "su": []
+      },
+      "name": "м. Тернопіль, вул Київська 11Б"
+    },
+    {
+      "description": "Магазин",
+      "type": "store-type-supplier",
+      "inventoryType": "integer",
+      "address": {
+        "countryIso": "UA",
+        "region": "Харьковская область",
+        "regionId": 98,
+        "city": "Харків",
+        "street": "Двадцять Третього Серпня",
+        "building": "33-А",
+        "text": "Двадцять Третього Серпня, д. 33-А"
+      },
+      "active": true,
+      "phone": {
+
+      },
+      "code": "6958",
+      "workTime": {
+        "mo": [],
+        "tu": [],
+        "we": [],
+        "th": [],
+        "fr": [],
+        "sa": [],
+        "su": []
+      },
+      "name": "м. Харків, ТЦ Класс, вул. 23 серпня, 33-А"
+    },
+    {
+      "description": "Магазин",
+      "type": "store-type-supplier",
+      "inventoryType": "integer",
+      "address": {
+        "countryIso": "UA",
+        "region": "Харьковская область",
+        "regionId": 98,
+        "city": "Харків",
+        "street": "пр-т Гагаріна",
+        "building": "173-В",
+        "text": "пр-т Гагаріна, д. 173-В"
+      },
+      "active": true,
+      "phone": {
+
+      },
+      "code": "7430",
+      "workTime": {
+        "mo": [],
+        "tu": [],
+        "we": [],
+        "th": [],
+        "fr": [],
+        "sa": [],
+        "su": []
+      },
+      "name": "м. Харків, пр-т. Гагаріна, 173-В"
+    },
+    {
+      "description": "Магазин",
+      "type": "store-type-supplier",
+      "inventoryType": "integer",
+      "address": {
+        "countryIso": "UA",
+        "region": "Харьковская область",
+        "regionId": 98,
+        "city": "Харків",
+        "street": "пров. Донецький",
+        "building": "18",
+        "text": "пров. Донецький, д. 18"
+      },
+      "active": true,
+      "phone": {
+
+      },
+      "code": "7441",
+      "workTime": {
+        "mo": [],
+        "tu": [],
+        "we": [],
+        "th": [],
+        "fr": [],
+        "sa": [],
+        "su": []
+      },
+      "name": "м. Харків, ТЦ Класс, пров. Донецький, 18"
+    },
+    {
+      "description": "Магазин",
+      "type": "store-type-supplier",
+      "inventoryType": "integer",
+      "address": {
+        "countryIso": "UA",
+        "region": "Харьковская область",
+        "regionId": 98,
+        "city": "Харків",
+        "street": "Людвіга Свободи",
+        "building": "35",
+        "text": "Людвіга Свободи, д. 35"
+      },
+      "active": false,
+      "phone": {
+
+      },
+      "code": "2085",
+      "workTime": {
+        "mo": [],
+        "tu": [],
+        "we": [],
+        "th": [],
+        "fr": [],
+        "sa": [],
+        "su": []
+      },
+      "name": "м. Харків, пр-т. Людвіга Свободи, 35"
+    },
+    {
+      "description": "Магазин",
+      "type": "store-type-supplier",
+      "inventoryType": "integer",
+      "address": {
+        "countryIso": "UA",
+        "region": "Харьковская область",
+        "regionId": 98,
+        "city": "Харків",
+        "street": "Григорія Сковороди (Пушкінська)",
+        "building": "2",
+        "text": "Григорія Сковороди (Пушкінська), д. 2"
+      },
+      "active": true,
+      "phone": {
+
+      },
+      "code": "7434",
+      "workTime": {
+        "mo": [],
+        "tu": [],
+        "we": [],
+        "th": [],
+        "fr": [],
+        "sa": [],
+        "su": []
+      },
+      "name": "м. Харків, ТРЦ Нікольський, вул. Григорія Сковороди (Пушкінська), 2"
+    },
+    {
+      "description": "Магазин",
+      "type": "store-type-supplier",
+      "inventoryType": "integer",
+      "address": {
+        "countryIso": "UA",
+        "region": "Харьковская область",
+        "regionId": 98,
+        "city": "Харків",
+        "street": "Данилевського",
+        "building": "16",
+        "text": "Данилевського, д. 16"
+      },
+      "active": true,
+      "phone": {
+
+      },
+      "code": "2018",
+      "workTime": {
+        "mo": [],
+        "tu": [],
+        "we": [],
+        "th": [],
+        "fr": [],
+        "sa": [],
+        "su": []
+      },
+      "name": "м. Харків, вул. Данилевського, 16"
+    },
+    {
+      "description": "Магазин",
+      "type": "store-type-supplier",
+      "inventoryType": "integer",
+      "address": {
+        "countryIso": "UA",
+        "region": "Харьковская область",
+        "regionId": 98,
+        "city": "Харків",
+        "street": "Григорія Сковороди (Пушкінська)",
+        "building": "67",
+        "text": "Григорія Сковороди (Пушкінська), д. 67"
+      },
+      "active": true,
+      "phone": {
+
+      },
+      "code": "2010",
+      "workTime": {
+        "mo": [],
+        "tu": [],
+        "we": [],
+        "th": [],
+        "fr": [],
+        "sa": [],
+        "su": []
+      },
+      "name": "м. Харків, вул. Григорія Сковороди (Пушкінська), 67"
+    },
+    {
+      "description": "Магазин",
+      "type": "store-type-supplier",
+      "inventoryType": "integer",
+      "address": {
+        "countryIso": "UA",
+        "region": "Харьковская область",
+        "regionId": 98,
+        "city": "Харків",
+        "street": "Бекетова",
+        "building": "21",
+        "text": "Бекетова, д. 21"
+      },
+      "active": true,
+      "phone": {
+
+      },
+      "code": "3032",
+      "workTime": {
+        "mo": [],
+        "tu": [],
+        "we": [],
+        "th": [],
+        "fr": [],
+        "sa": [],
+        "su": []
+      },
+      "name": "м. Харків, Ринок ХТЗ, вул. Бекетова, 21"
+    },
+    {
+      "description": "Магазин",
+      "type": "store-type-supplier",
+      "inventoryType": "integer",
+      "address": {
+        "countryIso": "UA",
+        "region": "Харьковская область",
+        "regionId": 98,
+        "city": "Харків",
+        "street": "Сумська",
+        "building": "108",
+        "text": "Сумська, д. 108"
+      },
+      "active": true,
+      "phone": {
+
+      },
+      "code": "2009",
+      "workTime": {
+        "mo": [],
+        "tu": [],
+        "we": [],
+        "th": [],
+        "fr": [],
+        "sa": [],
+        "su": []
+      },
+      "name": "м. Харків, вул. Сумська, 108"
+    },
+    {
+      "description": "Магазин",
+      "type": "store-type-supplier",
+      "inventoryType": "integer",
+      "address": {
+        "countryIso": "UA",
+        "region": "Харьковская область",
+        "regionId": 98,
+        "city": "Харків",
+        "street": "Тракторобудівників",
+        "building": "59/56",
+        "text": "Тракторобудівників, д. 59/56"
+      },
+      "active": true,
+      "phone": {
+
+      },
+      "code": "4574",
+      "workTime": {
+        "mo": [],
+        "tu": [],
+        "we": [],
+        "th": [],
+        "fr": [],
+        "sa": [],
+        "su": []
+      },
+      "name": "м. Харків, ТРЦ Україна, пр-т. Тракторобудівників, 59/56"
+    },
+    {
+      "description": "Магазин",
+      "type": "store-type-supplier",
+      "inventoryType": "integer",
+      "address": {
+        "countryIso": "UA",
+        "region": "Харьковская область",
+        "regionId": 98,
+        "city": "Харків",
+        "street": "Дудинської",
+        "building": "1А",
+        "text": "Дудинської, д. 1А"
+      },
+      "active": true,
+      "phone": {
+
+      },
+      "code": "7383",
+      "workTime": {
+        "mo": [],
+        "tu": [],
+        "we": [],
+        "th": [],
+        "fr": [],
+        "sa": [],
+        "su": []
+      },
+      "name": "м. Харків, ТЦ Класс, Холодна гора, 0-й поверх"
+    },
+    {
+      "description": "Магазин",
+      "type": "store-type-supplier",
+      "inventoryType": "integer",
+      "address": {
+        "countryIso": "UA",
+        "region": "Харьковская область",
+        "regionId": 98,
+        "city": "Харків",
+        "street": "Різдвяна",
+        "building": "33",
+        "text": "Різдвяна, д. 33"
+      },
+      "active": true,
+      "phone": {
+
+      },
+      "code": "4576",
+      "workTime": {
+        "mo": [],
+        "tu": [],
+        "we": [],
+        "th": [],
+        "fr": [],
+        "sa": [],
+        "su": []
+      },
+      "name": "м. Харків, Центральний ринок, вул.Різдвяна, 33"
+    },
+    {
+      "description": "Магазин",
+      "type": "store-type-supplier",
+      "inventoryType": "integer",
+      "address": {
+        "countryIso": "UA",
+        "region": "Хмельницкая область",
+        "regionId": 117,
+        "city": "Хмельницький",
+        "street": "Кам'янецька",
+        "building": "17",
+        "text": "Кам'янецька, д. 17"
+      },
+      "active": true,
+      "phone": {
+
+      },
+      "code": "2423",
+      "workTime": {
+        "mo": [],
+        "tu": [],
+        "we": [],
+        "th": [],
+        "fr": [],
+        "sa": [],
+        "su": []
+      },
+      "name": "м. Хмельницький, ТРЦ Квартал, вул. Кам'янецька, 17"
+    },
+    {
+      "description": "Магазин",
+      "type": "store-type-supplier",
+      "inventoryType": "integer",
+      "address": {
+        "countryIso": "UA",
+        "region": "Хмельницкая область",
+        "regionId": 117,
+        "city": "Хмельницький",
+        "street": "Миру",
+        "building": "72/5",
+        "text": "Миру, д. 72/5"
+      },
+      "active": true,
+      "phone": {
+
+      },
+      "code": "7471",
+      "workTime": {
+        "mo": [],
+        "tu": [],
+        "we": [],
+        "th": [],
+        "fr": [],
+        "sa": [],
+        "su": []
+      },
+      "name": "м. Хмельницький, пр-т. Миру 72/5"
+    },
+    {
+      "description": "Магазин",
+      "type": "store-type-supplier",
+      "inventoryType": "integer",
+      "address": {
+        "countryIso": "UA",
+        "region": "Киев область",
+        "regionId": 91,
+        "city": "Київ",
+        "street": "Митрополита Андрея Шептицького",
+        "building": "4А",
+        "text": "Митрополита Андрея Шептицького, д. 4А"
+      },
+      "active": true,
+      "phone": {
+
+      },
+      "code": "7481",
+      "workTime": {
+        "mo": [],
+        "tu": [],
+        "we": [],
+        "th": [],
+        "fr": [],
+        "sa": [],
+        "su": []
+      },
+      "name": "м. Київ, ТРЦ Комод, вул. Митрополита Андрея Шептицького, 4А"
+    },
+    {
+      "description": "Магазин",
+      "type": "store-type-supplier",
+      "inventoryType": "integer",
+      "address": {
+        "countryIso": "UA",
+        "region": "Закарпатская область",
+        "regionId": 100,
+        "city": "Мукачево",
+        "street": "Миру",
+        "building": "12/26",
+        "text": "Миру, д. 12/26"
+      },
+      "active": true,
+      "phone": {
+
+      },
+      "code": "7478",
+      "workTime": {
+        "mo": [],
+        "tu": [],
+        "we": [],
+        "th": [],
+        "fr": [],
+        "sa": [],
+        "su": []
+      },
+      "name": "м. Мукачево, просп. Миру, 26/12"
+    },
+    {
+      "description": "Магазин",
+      "type": "store-type-supplier",
+      "inventoryType": "integer",
+      "address": {
+        "countryIso": "UA",
+        "region": "Закарпатская область",
+        "regionId": 100,
+        "city": "Ужгород",
+        "street": "Капушанська",
+        "building": "34",
+        "text": "Капушанська, д. 34"
+      },
+      "active": true,
+      "phone": {
+
+      },
+      "code": "7480",
+      "workTime": {
+        "mo": [],
+        "tu": [],
+        "we": [],
+        "th": [],
+        "fr": [],
+        "sa": [],
+        "su": []
+      },
+      "name": "м. Ужгород, вул. Капушанська, 34"
+    },
+    {
+      "description": "Магазин",
+      "type": "store-type-supplier",
+      "inventoryType": "integer",
+      "address": {
+        "countryIso": "UA",
+        "region": "Киев область",
+        "regionId": 91,
+        "city": "Київ",
+        "street": "Керченська",
+        "building": "7",
+        "text": "Керченська, д. 7"
+      },
+      "active": false,
+      "phone": {
+
+      },
+      "code": "7456",
+      "workTime": {
+        "mo": [],
+        "tu": [],
+        "we": [],
+        "th": [],
+        "fr": [],
+        "sa": [],
+        "su": []
+      },
+      "name": "м. Київ, ТЦ Novus, пл. Керчинська, 7"
+    },
+    {
+      "description": "Магазин",
+      "type": "store-type-supplier",
+      "inventoryType": "integer",
+      "address": {
+        "countryIso": "UA",
+        "region": "Днепропетровская область",
+        "regionId": 114,
+        "city": "Днепр",
+        "cityId": 18209,
+        "cityType": "г.",
+        "street": "Слобожанський",
+        "streetId": 3428849,
+        "building": "2",
+        "text": "Слобожанський, д. 2"
+      },
+      "active": false,
+      "phone": {
+
+      },
+      "code": "7479",
+      "workTime": {
+        "mo": [],
+        "tu": [],
+        "we": [],
+        "th": [],
+        "fr": [],
+        "sa": [],
+        "su": []
+      },
+      "name": "Днепр Слобожанский 2"
+    },
+    {
+      "description": "Магазин",
+      "type": "store-type-supplier",
+      "inventoryType": "integer",
+      "address": {
+        "countryIso": "UA",
+        "region": "Хмельницкая область",
+        "regionId": 117,
+        "city": "Хмельницький",
+        "street": "Січових стрільців",
+        "building": "2",
+        "text": "Січових стрільців, д. 2"
+      },
+      "active": true,
+      "phone": {
+
+      },
+      "code": "7486",
+      "workTime": {
+        "mo": [],
+        "tu": [],
+        "we": [],
+        "th": [],
+        "fr": [],
+        "sa": [],
+        "su": []
+      },
+      "name": "м. Хмельницький, вул. Січових Стрільців, 2"
+    },
+    {
+      "description": "Магазин",
+      "type": "store-type-supplier",
+      "inventoryType": "integer",
+      "address": {
+        "countryIso": "UA",
+        "region": "Рівненська область",
+        "regionId": 99,
+        "city": "Рівне",
+        "street": "Короленка",
+        "building": "2",
+        "text": "Короленка, д. 2"
+      },
+      "active": true,
+      "phone": {
+
+      },
+      "code": "7485",
+      "workTime": {
+        "mo": [],
+        "tu": [],
+        "we": [],
+        "th": [],
+        "fr": [],
+        "sa": [],
+        "su": []
+      },
+      "name": "м. Рівне, вул. Олександра Борисенка, 2А (Короленко)"
+    },
+    {
+      "description": "Магазин",
+      "type": "store-type-supplier",
+      "inventoryType": "integer",
+      "address": {
+        "countryIso": "UA",
+        "region": "Киев область",
+        "regionId": 91,
+        "city": "Київ",
+        "street": "Правди",
+        "building": "47",
+        "text": "Правди, д. 47"
+      },
+      "active": true,
+      "phone": {
+
+      },
+      "code": "7417",
+      "workTime": {
+        "mo": [],
+        "tu": [],
+        "we": [],
+        "th": [],
+        "fr": [],
+        "sa": [],
+        "su": []
+      },
+      "name": "м. Київ, ТРЦ Retroville, пр-т. Європейського Союзу, 47"
+    },
+    {
+      "description": "Магазин",
+      "type": "store-type-supplier",
+      "inventoryType": "integer",
+      "address": {
+        "countryIso": "UA",
+        "region": "Ровенская область",
+        "regionId": 99,
+        "city": "Рівне",
+        "street": "Макарова",
+        "building": "23",
+        "text": "Макарова, д. 23"
+      },
+      "active": true,
+      "phone": {
+
+      },
+      "code": "7484",
+      "workTime": {
+        "mo": [],
+        "tu": [],
+        "we": [],
+        "th": [],
+        "fr": [],
+        "sa": [],
+        "su": []
+      },
+      "name": "м. Рівне, ТРЦ Екватор, вул. Макарова, 23"
+    },
+    {
+      "description": "Магазин",
+      "type": "store-type-supplier",
+      "inventoryType": "integer",
+      "address": {
+        "countryIso": "UA",
+        "region": "Киев область",
+        "regionId": 91,
+        "city": "Київ",
+        "street": "Велика Житомирська",
+        "building": "6/11",
+        "text": "Велика Житомирська, д. 6/11"
+      },
+      "active": false,
+      "phone": {
+
+      },
+      "code": "7487",
+      "workTime": {
+        "mo": [],
+        "tu": [],
+        "we": [],
+        "th": [],
+        "fr": [],
+        "sa": [],
+        "su": []
+      },
+      "name": "м. Київ, вул. Велика Житомирська, 6/11"
+    },
+    {
+      "description": "Магазин",
+      "type": "store-type-supplier",
+      "inventoryType": "integer",
+      "address": {
+        "countryIso": "UA",
+        "region": "Киев область",
+        "regionId": 91,
+        "city": "Київ",
+        "street": "Петра Калнишевського",
+        "building": "2",
+        "text": "Петра Калнишевського, д. 2"
+      },
+      "active": true,
+      "phone": {
+
+      },
+      "code": "7488",
+      "workTime": {
+        "mo": [],
+        "tu": [],
+        "we": [],
+        "th": [],
+        "fr": [],
+        "sa": [],
+        "su": []
+      },
+      "name": "м. Київ, ТЦ Полярний, вул. Петра Калнишевського, 2"
+    },
+    {
+      "description": "Магазин",
+      "type": "store-type-supplier",
+      "inventoryType": "integer",
+      "address": {
+        "countryIso": "UA",
+        "region": "Киевская область",
+        "regionId": 102,
+        "city": "Бровари",
+        "street": "Київська",
+        "building": "247",
+        "text": "Київська, д. 247"
+      },
+      "active": true,
+      "phone": {
+
+      },
+      "code": "7489",
+      "workTime": {
+        "mo": [],
+        "tu": [],
+        "we": [],
+        "th": [],
+        "fr": [],
+        "sa": [],
+        "su": []
+      },
+      "name": "м. Бровари, вул. Київська, 247"
+    },
+    {
+      "description": "Магазин",
+      "type": "store-type-supplier",
+      "inventoryType": "integer",
+      "address": {
+        "countryIso": "UA",
+        "region": "Закарпатская область",
+        "regionId": 100,
+        "city": "Ужгород",
+        "street": "Капушанська",
+        "building": "150",
+        "text": "Капушанська, д. 150"
+      },
+      "active": true,
+      "phone": {
+
+      },
+      "code": "7491",
+      "workTime": {
+        "mo": [],
+        "tu": [],
+        "we": [],
+        "th": [],
+        "fr": [],
+        "sa": [],
+        "su": []
+      },
+      "name": "м. Ужгород, вул. Капушанська, 150"
+    },
+    {
+      "description": "Магазин",
+      "type": "store-type-supplier",
+      "inventoryType": "integer",
+      "address": {
+        "countryIso": "UA",
+        "region": "Киев область",
+        "regionId": 91,
+        "city": "Київ",
+        "street": "Велика Васильківська",
+        "building": "134",
+        "text": "Велика Васильківська, д. 134"
+      },
+      "active": true,
+      "phone": {
+
+      },
+      "code": "7492",
+      "workTime": {
+        "mo": [],
+        "tu": [],
+        "we": [],
+        "th": [],
+        "fr": [],
+        "sa": [],
+        "su": []
+      },
+      "name": "м. Київ, вул. Велика Васильківська, 134"
+    },
+    {
+      "description": "Магазин",
+      "type": "store-type-supplier",
+      "inventoryType": "integer",
+      "address": {
+        "countryIso": "UA",
+        "region": "Житомирська область",
+        "regionId": 97,
+        "city": "Житомир",
+        "street": "провулок Перший Винокурний",
+        "building": "63",
+        "text": "провулок Перший Винокурний, д. 63"
+      },
+      "active": true,
+      "phone": {
+
+      },
+      "code": "7494",
+      "workTime": {
+        "mo": [],
+        "tu": [],
+        "we": [],
+        "th": [],
+        "fr": [],
+        "sa": [],
+        "su": []
+      },
+      "name": "м. Житомир, пров. 1-й Винокурний, 63"
+    },
+    {
+      "description": "Магазин",
+      "type": "store-type-supplier",
+      "inventoryType": "integer",
+      "address": {
+        "countryIso": "UA",
+        "region": "Київська область",
+        "regionId": 102,
+        "city": "Київ",
+        "street": "Академіка Булаховського",
+        "building": "3-а",
+        "text": "Академіка Булаховського, д. 3-а"
+      },
+      "active": true,
+      "phone": {
+
+      },
+      "code": "7493",
+      "workTime": {
+        "mo": [],
+        "tu": [],
+        "we": [],
+        "th": [],
+        "fr": [],
+        "sa": [],
+        "su": []
+      },
+      "name": "м. Київ, ТЦ Регіна, вул. Академіка Булаховського, 3А"
+    },
+    {
+      "description": "Магазин",
+      "type": "store-type-supplier",
+      "inventoryType": "integer",
+      "address": {
+        "countryIso": "UA",
+        "region": "Рівненська область",
+        "regionId": 99,
+        "city": "Рівне",
+        "street": "Бачинського",
+        "building": "5",
+        "text": "Бачинського, д. 5"
+      },
+      "active": true,
+      "phone": {
+
+      },
+      "code": "7495",
+      "workTime": {
+        "mo": [],
+        "tu": [],
+        "we": [],
+        "th": [],
+        "fr": [],
+        "sa": [],
+        "su": []
+      },
+      "name": "м. Рівне, ТРЦ Хеппі Молл, вул. Бачинського 5"
+    },
+    {
+      "description": "Магазин",
+      "type": "store-type-supplier",
+      "inventoryType": "integer",
+      "address": {
+        "countryIso": "UA",
+        "region": "Харківська область",
+        "regionId": 98,
+        "city": "Харків",
+        "street": "Культури",
+        "building": "8",
+        "text": "Культури, д. 8"
+      },
+      "active": true,
+      "phone": {
+
+      },
+      "code": "1898",
+      "workTime": {
+        "mo": [],
+        "tu": [],
+        "we": [],
+        "th": [],
+        "fr": [],
+        "sa": [],
+        "su": []
+      },
+      "name": "м. Харків, Сумський ринок, вул. Культури, 8"
+    },
+    {
+      "description": "Магазин",
+      "type": "store-type-supplier",
+      "inventoryType": "integer",
+      "address": {
+        "countryIso": "UA",
+        "region": "Харківська область",
+        "regionId": 98,
+        "city": "Харків",
+        "street": "Героїв праці",
+        "building": "9",
+        "text": "Героїв праці, д. 9"
+      },
+      "active": true,
+      "phone": {
+
+      },
+      "code": "4914",
+      "workTime": {
+        "mo": [],
+        "tu": [],
+        "we": [],
+        "th": [],
+        "fr": [],
+        "sa": [],
+        "su": []
+      },
+      "name": "м. Харків, ТРЦ Дафі, вул. Героїв праці, 9"
+    },
+    {
+      "description": "Магазин",
+      "type": "store-type-supplier",
+      "inventoryType": "integer",
+      "address": {
+        "countryIso": "UA",
+        "region": "Закарпатська область",
+        "regionId": 100,
+        "city": "Мукачево",
+        "street": "Росвигівська",
+        "building": "7А",
+        "text": "Росвигівська, д. 7А"
+      },
+      "active": true,
+      "phone": {
+
+      },
+      "code": "7496",
+      "workTime": {
+        "mo": [],
+        "tu": [],
+        "we": [],
+        "th": [],
+        "fr": [],
+        "sa": [],
+        "su": []
+      },
+      "name": "м. Мукачево, вул. Росвигівська, 7а"
+    },
+    {
+      "description": "Магазин",
+      "type": "store-type-supplier",
+      "inventoryType": "integer",
+      "address": {
+        "countryIso": "UA",
+        "region": "Київська область",
+        "regionId": 102,
+        "city": "Бориспіль",
+        "street": "Київський шлях",
+        "building": "47",
+        "text": "Київський шлях, д. 47"
+      },
+      "active": true,
+      "phone": {
+
+      },
+      "code": "7498",
+      "workTime": {
+        "mo": [],
+        "tu": [],
+        "we": [],
+        "th": [],
+        "fr": [],
+        "sa": [],
+        "su": []
+      },
+      "name": "м. Бориспіль, вул. Київський шлях, 47"
+    },
+    {
+      "description": "Магазин",
+      "type": "store-type-supplier",
+      "inventoryType": "integer",
+      "address": {
+        "countryIso": "UA",
+        "region": "Київ область",
+        "regionId": 250,
+        "city": "Київ",
+        "street": "Берестейський",
+        "building": "67",
+        "text": "Берестейський, д. 67"
+      },
+      "active": true,
+      "phone": {
+
+      },
+      "code": "7497",
+      "workTime": {
+        "mo": [],
+        "tu": [],
+        "we": [],
+        "th": [],
+        "fr": [],
+        "sa": [],
+        "su": []
+      },
+      "name": "м. Київ, пр-т. Берестейський, 67 стара назва пр-т. Перемоги"
+    },
+    {
+      "description": "Магазин",
+      "type": "store-type-supplier",
+      "inventoryType": "integer",
+      "address": {
+        "countryIso": "UA",
+        "region": "Рівненська область",
+        "regionId": 99,
+        "city": "Рівне",
+        "street": "Василя Червонія",
+        "building": "26",
+        "text": "Василя Червонія, д. 26"
+      },
+      "active": true,
+      "phone": {
+
+      },
+      "code": "7500",
+      "workTime": {
+        "mo": [],
+        "tu": [],
+        "we": [],
+        "th": [],
+        "fr": [],
+        "sa": [],
+        "su": []
+      },
+      "name": "м. Рівне, ТРЦ Новус, вул. Василя Червонія, 26 (Гагаріна)"
+    },
+    {
+      "description": "Магазин",
+      "type": "store-type-supplier",
+      "inventoryType": "integer",
+      "address": {
+        "countryIso": "UA",
+        "region": "Львівська область",
+        "regionId": 108,
+        "city": "Львів",
+        "street": "Стрийська",
+        "building": "108",
+        "text": "Стрийська, д. 108"
+      },
+      "active": true,
+      "phone": {
+
+      },
+      "code": "7501",
+      "workTime": {
+        "mo": [],
+        "tu": [],
+        "we": [],
+        "th": [],
+        "fr": [],
+        "sa": [],
+        "su": []
+      },
+      "name": "м. Львів, вул. Стрийська, 108"
+    },
+    {
+      "description": "Магазин",
+      "type": "store-type-supplier",
+      "inventoryType": "integer",
+      "address": {
+        "countryIso": "UA",
+        "region": "Житомирська область",
+        "regionId": 97,
+        "city": "Житомир",
+        "street": "Лятошинського",
+        "building": "2",
+        "text": "Лятошинського, д. 2"
+      },
+      "active": true,
+      "phone": {
+
+      },
+      "code": "7499",
+      "workTime": {
+        "mo": [],
+        "tu": [],
+        "we": [],
+        "th": [],
+        "fr": [],
+        "sa": [],
+        "su": []
+      },
+      "name": "м. Житомир, вул. Лятошинського, 2"
+    },
+    {
+      "description": "Магазин",
+      "type": "store-type-supplier",
+      "inventoryType": "integer",
+      "address": {
+        "countryIso": "UA",
+        "region": "Київська область",
+        "regionId": 102,
+        "city": "м. Біла Церква",
+        "street": "Ярослава Мудрого",
+        "building": "40",
+        "text": "Ярослава Мудрого, д. 40"
+      },
+      "active": true,
+      "phone": {
+
+      },
+      "code": "7502",
+      "workTime": {
+        "mo": [],
+        "tu": [],
+        "we": [],
+        "th": [],
+        "fr": [],
+        "sa": [],
+        "su": []
+      },
+      "name": "м. Біла Церква, ТРЦ Гермес, вул. Ярослава Мудрого, 40"
+    },
+    {
+      "description": "Магазин",
+      "type": "store-type-supplier",
+      "inventoryType": "integer",
+      "address": {
+        "countryIso": "UA",
+        "region": "Тернопільська область",
+        "regionId": 96,
+        "city": "Тернопіль",
+        "street": "Крушельницької",
+        "building": "35/66",
+        "text": "Крушельницької, д. 35/66"
+      },
+      "active": true,
+      "phone": {
+
+      },
+      "code": "7503",
+      "workTime": {
+        "mo": [],
+        "tu": [],
+        "we": [],
+        "th": [],
+        "fr": [],
+        "sa": [],
+        "su": []
+      },
+      "name": "м. Тернопіль, вул. Крушельницька 35/66"
+    },
+    {
+      "description": "Магазин",
+      "type": "store-type-supplier",
+      "inventoryType": "integer",
+      "address": {
+        "countryIso": "UA",
+        "region": "Київська область",
+        "regionId": 102,
+        "city": "Київ",
+        "street": "Глубочицька",
+        "building": "44",
+        "text": "Глубочицька, д. 44"
+      },
+      "active": true,
+      "phone": {
+
+      },
+      "code": "7504",
+      "workTime": {
+        "mo": [],
+        "tu": [],
+        "we": [],
+        "th": [],
+        "fr": [],
+        "sa": [],
+        "su": []
+      },
+      "name": "м. Київ, Ультрамаркет, вул. Глибочицька, 44"
+    },
+    {
+      "description": "Магазин",
+      "type": "store-type-supplier",
+      "inventoryType": "integer",
+      "address": {
+        "countryIso": "UA",
+        "region": "Тернопільська область",
+        "regionId": 96,
+        "city": "Тернопіль",
+        "street": "Шевченка",
+        "building": "21",
+        "text": "Шевченка, д. 21"
+      },
+      "active": true,
+      "phone": {
+
+      },
+      "code": "7506",
+      "workTime": {
+        "mo": [],
+        "tu": [],
+        "we": [],
+        "th": [],
+        "fr": [],
+        "sa": [],
+        "su": []
+      },
+      "name": "м. Тернопіль, бул. Шевченка, 21"
+    },
+    {
+      "description": "Магазин",
+      "type": "store-type-supplier",
+      "inventoryType": "integer",
+      "address": {
+        "countryIso": "UA",
+        "region": "Київ область",
+        "regionId": 250,
+        "city": "Київ",
+        "street": "пр-т. Червоної Калини",
+        "building": "85",
+        "text": "пр-т. Червоної Калини, д. 85"
+      },
+      "active": true,
+      "phone": {
+
+      },
+      "code": "7505",
+      "workTime": {
+        "mo": [],
+        "tu": [],
+        "we": [],
+        "th": [],
+        "fr": [],
+        "sa": [],
+        "su": []
+      },
+      "name": "м. Київ, ТЦ Novus, пр-т. Червоної Калини, 85"
+    },
+    {
+      "description": "Магазин",
+      "type": "store-type-supplier",
+      "inventoryType": "integer",
+      "address": {
+        "countryIso": "UA",
+        "region": "Київська область",
+        "regionId": 102,
+        "city": "м. Біла Церква",
+        "street": "бул. Олександрійский",
+        "building": "78",
+        "text": "бул. Олександрійский, д. 78"
+      },
+      "active": true,
+      "phone": {
+
+      },
+      "code": "7507",
+      "workTime": {
+        "mo": [],
+        "tu": [],
+        "we": [],
+        "th": [],
+        "fr": [],
+        "sa": [],
+        "su": []
+      },
+      "name": "м. Біла Церква, бул. Олександрійский, 78"
+    },
+    {
+      "description": "Магазин",
+      "type": "store-type-supplier",
+      "inventoryType": "integer",
+      "address": {
+        "countryIso": "UA",
+        "region": "Київська область",
+        "regionId": 102,
+        "city": "Київ",
+        "street": "вул. Панаса Мирного",
+        "building": "16/13",
+        "text": "вул. Панаса Мирного, д. 16/13"
+      },
+      "active": true,
+      "phone": {
+
+      },
+      "code": "7508",
+      "workTime": {
+        "mo": [],
+        "tu": [],
+        "we": [],
+        "th": [],
+        "fr": [],
+        "sa": [],
+        "su": []
+      },
+      "name": "м. Київ, вул. Панаса Мирного, 16/13"
+    },
+    {
+      "description": "Склад компании. Львов.",
+      "type": "store-type-supplier",
+      "inventoryType": "integer",
+      "address": {
+        "index": "81131",
+        "countryIso": "UA",
+        "region": "Львівська область",
+        "regionId": 108,
+        "city": "Солонка",
+        "cityId": 25446,
+        "cityType": "д.",
+        "street": "Стуса Василя",
+        "building": "55",
+        "text": "Стуса Василя, д. 55"
+      },
+      "active": false,
+      "phone": {
+        "number": "0971353925"
+      },
+      "code": "008",
+      "workTime": {
+        "mo": [],
+        "tu": [],
+        "we": [],
+        "th": [],
+        "fr": [],
+        "sa": [],
+        "su": []
+      },
+      "name": "Склад дистрибуции Львов"
+    },
+    {
+      "description": "Магазин",
+      "type": "store-type-supplier",
+      "inventoryType": "integer",
+      "address": {
+        "countryIso": "UA",
+        "region": "Івано-Франківська область",
+        "regionId": 115,
+        "city": "Івано-Франківськ",
+        "street": "Івасюка",
+        "building": "62",
+        "text": "Івасюка, д. 62"
+      },
+      "active": true,
+      "phone": {
+
+      },
+      "code": "7509",
+      "workTime": {
+        "mo": [],
+        "tu": [],
+        "we": [],
+        "th": [],
+        "fr": [],
+        "sa": [],
+        "su": []
+      },
+      "name": "м. Івано-Франківськ, вул. Івасюка, 62"
+    },
+    {
+      "description": "Магазин",
+      "type": "store-type-supplier",
+      "inventoryType": "integer",
+      "address": {
+        "countryIso": "UA",
+        "region": "Київська область",
+        "regionId": 102,
+        "city": "Київ",
+        "street": "Михайла Максимовича",
+        "building": "28-Б",
+        "text": "Михайла Максимовича, д. 28-Б"
+      },
+      "active": true,
+      "phone": {
+
+      },
+      "code": "7510",
+      "workTime": {
+        "mo": [],
+        "tu": [],
+        "we": [],
+        "th": [],
+        "fr": [],
+        "sa": [],
+        "su": []
+      },
+      "name": "м. Київ, вул. Михайла Максимовича, 28-Б"
+    },
+    {
+      "description": "Магазин",
+      "type": "store-type-supplier",
+      "inventoryType": "integer",
+      "address": {
+        "countryIso": "UA",
+        "region": "Київська область",
+        "regionId": 102,
+        "city": "Київ",
+        "street": "Андрія Верхогляда",
+        "building": "15",
+        "text": "Андрія Верхогляда, д. 15"
+      },
+      "active": true,
+      "phone": {
+
+      },
+      "code": "7512",
+      "workTime": {
+        "mo": [],
+        "tu": [],
+        "we": [],
+        "th": [],
+        "fr": [],
+        "sa": [],
+        "su": []
+      },
+      "name": "м. Київ, вул. Андрія Верхогляда, 15 (Драгомирова)"
+    },
+    {
+      "description": "Магазин",
+      "type": "store-type-supplier",
+      "inventoryType": "integer",
+      "address": {
+        "countryIso": "UA",
+        "region": "Рівненська область",
+        "regionId": 99,
+        "city": "Рівне",
+        "street": "проспект Миру",
+        "building": "15",
+        "text": "проспект Миру, д. 15"
+      },
+      "active": true,
+      "phone": {
+
+      },
+      "code": "7511",
+      "workTime": {
+        "mo": [],
+        "tu": [],
+        "we": [],
+        "th": [],
+        "fr": [],
+        "sa": [],
+        "su": []
+      },
+      "name": "м. Рівне, пр-т Миру 15"
+    },
+    {
+      "description": "Склад Львов ИМ (уцененные товары)",
+      "type": "store-type-supplier",
+      "inventoryType": "integer",
+      "address": {
+        "index": "79000",
+        "countryIso": "UA",
+        "region": "Львівська область",
+        "regionId": 108,
+        "city": "Львів",
+        "street": "Угорська",
+        "building": "22",
+        "text": "Угорська, д. 22"
+      },
+      "active": true,
+      "phone": {
+        "number": "0996313595"
+      },
+      "code": "911",
+      "workTime": {
+        "mo": [],
+        "tu": [],
+        "we": [],
+        "th": [],
+        "fr": [],
+        "sa": [],
+        "su": []
+      },
+      "name": "Склад ИМ Львов (уценка)"
+    },
+    {
+      "description": "Магазин",
+      "type": "store-type-supplier",
+      "inventoryType": "integer",
+      "address": {
+        "countryIso": "UA",
+        "region": "Київська область",
+        "regionId": 102,
+        "city": "Київ",
+        "street": "проспект Оболонський",
+        "building": "19",
+        "text": "проспект Оболонський, д. 19"
+      },
+      "active": true,
+      "phone": {
+
+      },
+      "code": "7516",
+      "workTime": {
+        "mo": [],
+        "tu": [],
+        "we": [],
+        "th": [],
+        "fr": [],
+        "sa": [],
+        "su": []
+      },
+      "name": "м. Київ, ТЦ Smart Plaza, просп. Оболонський, 19"
+    },
+    {
+      "description": "Магазин",
+      "type": "store-type-supplier",
+      "inventoryType": "integer",
+      "address": {
+        "countryIso": "UA",
+        "region": "Житомирська область",
+        "regionId": 97,
+        "city": "Житомир",
+        "street": "Івана Сльоти",
+        "building": "49-В",
+        "text": "Івана Сльоти, д. 49-В"
+      },
+      "active": true,
+      "phone": {
+
+      },
+      "code": "7514",
+      "workTime": {
+        "mo": [],
+        "tu": [],
+        "we": [],
+        "th": [],
+        "fr": [],
+        "sa": [],
+        "su": []
+      },
+      "name": "м. Житомир, вул. Івана Сльоти, 49-В"
+    },
+    {
+      "description": "Магазин",
+      "type": "store-type-supplier",
+      "inventoryType": "integer",
+      "address": {
+        "countryIso": "UA",
+        "region": "Київська область",
+        "regionId": 102,
+        "city": "Київ",
+        "street": "Тальнівська",
+        "building": "2",
+        "text": "Тальнівська, д. 2"
+      },
+      "active": true,
+      "phone": {
+
+      },
+      "code": "7513",
+      "workTime": {
+        "mo": [],
+        "tu": [],
+        "we": [],
+        "th": [],
+        "fr": [],
+        "sa": [],
+        "su": []
+      },
+      "name": "м. Київ, ТЦ Novus, вул. Тальнівська, 2"
+    },
+    {
+      "description": "Магазин",
+      "type": "store-type-supplier",
+      "inventoryType": "integer",
+      "address": {
+        "countryIso": "UA",
+        "region": "Дніпропетровська область",
+        "regionId": 114,
+        "city": "Новомосковськ",
+        "street": "47-А",
+        "text": "47-А"
+      },
+      "active": true,
+      "phone": {
+
+      },
+      "code": "7517",
+      "workTime": {
+        "mo": [],
+        "tu": [],
+        "we": [],
+        "th": [],
+        "fr": [],
+        "sa": [],
+        "su": []
+      },
+      "name": "м. Новомосковськ, вул. Гетьманська, 47-А"
+    },
+    {
+      "description": "Магазин",
+      "type": "store-type-supplier",
+      "inventoryType": "integer",
+      "address": {
+        "countryIso": "UA",
+        "region": "Вінницька область",
+        "regionId": 104,
+        "city": "Вінниця",
+        "street": "проспект Юності",
+        "building": "18",
+        "text": "проспект Юності, д. 18"
+      },
+      "active": true,
+      "phone": {
+
+      },
+      "code": "7515",
+      "workTime": {
+        "mo": [],
+        "tu": [],
+        "we": [],
+        "th": [],
+        "fr": [],
+        "sa": [],
+        "su": []
+      },
+      "name": "м. Вінниця, ТРЦ S)Mall, просп. Юності, 18"
+    },
+    {
+      "description": "Магазин",
+      "type": "store-type-supplier",
+      "inventoryType": "integer",
+      "address": {
+        "countryIso": "UA",
+        "region": "Черкаська область",
+        "regionId": 113,
+        "city": "Черкаси",
+        "street": "бульвар Шевченка",
+        "building": "187",
+        "text": "бульвар Шевченка, д. 187"
+      },
+      "active": true,
+      "phone": {
+
+      },
+      "code": "7518",
+      "workTime": {
+        "mo": [],
+        "tu": [],
+        "we": [],
+        "th": [],
+        "fr": [],
+        "sa": [],
+        "su": []
+      },
+      "name": "м. Черкаси, бул. Шевченка, 187"
+    },
+    {
+      "description": "Магазин",
+      "type": "store-type-supplier",
+      "inventoryType": "integer",
+      "address": {
+        "countryIso": "UA",
+        "region": "Харківська область",
+        "regionId": 98,
+        "city": "Харків",
+        "street": "Дерев'янка",
+        "building": "17-В",
+        "text": "Дерев'янка, д. 17-В"
+      },
+      "active": true,
+      "phone": {
+
+      },
+      "code": "1453",
+      "workTime": {
+        "mo": [],
+        "tu": [],
+        "we": [],
+        "th": [],
+        "fr": [],
+        "sa": [],
+        "su": []
+      },
+      "name": "м. Харків, вул. Дерев'янка, 17-В ZooLand"
+    },
+    {
+      "description": "Магазин",
+      "type": "store-type-supplier",
+      "inventoryType": "integer",
+      "address": {
+        "countryIso": "UA",
+        "region": "Київ область",
+        "regionId": 250,
+        "city": "Київ",
+        "street": "Ревуцького",
+        "building": "40-Б",
+        "text": "Ревуцького, д. 40-Б"
+      },
+      "active": true,
+      "phone": {
+
+      },
+      "code": "7519",
+      "workTime": {
+        "mo": [],
+        "tu": [],
+        "we": [],
+        "th": [],
+        "fr": [],
+        "sa": [],
+        "su": []
+      },
+      "name": "м. Київ, вул. Ревуцького, 40-Б"
+    },
+    {
+      "description": "Магазин",
+      "type": "store-type-supplier",
+      "inventoryType": "integer",
+      "address": {
+        "countryIso": "UA",
+        "region": "Київ область",
+        "regionId": 250,
+        "city": "Київ",
+        "street": "Прорізна",
+        "building": "22",
+        "text": "Прорізна, д. 22"
+      },
+      "active": true,
+      "phone": {
+
+      },
+      "code": "7522",
+      "workTime": {
+        "mo": [],
+        "tu": [],
+        "we": [],
+        "th": [],
+        "fr": [],
+        "sa": [],
+        "su": []
+      },
+      "name": "м. Київ, вул. Прорізна, 22"
+    },
+    {
+      "description": "Магазин",
+      "type": "store-type-supplier",
+      "inventoryType": "integer",
+      "address": {
+        "countryIso": "UA",
+        "region": "Одеська область",
+        "regionId": 101,
+        "city": "Одеса",
+        "street": "Південна дорога",
+        "building": "101-A",
+        "text": "Південна дорога, д. 101-A"
+      },
+      "active": true,
+      "phone": {
+
+      },
+      "code": "4809",
+      "workTime": {
+        "mo": [],
+        "tu": [],
+        "we": [],
+        "th": [],
+        "fr": [],
+        "sa": [],
+        "su": []
+      },
+      "name": "м. Одеса, ТРЦ Рів'єра Південна дорога, 101-A"
+    },
+    {
+      "description": "Магазин",
+      "type": "store-type-supplier",
+      "inventoryType": "integer",
+      "address": {
+        "countryIso": "UA",
+        "region": "Одеська область",
+        "regionId": 101,
+        "city": "Одеса",
+        "street": "Прорізна",
+        "building": "29",
+        "text": "Прорізна, д. 29"
+      },
+      "active": true,
+      "phone": {
+
+      },
+      "code": "7528",
+      "workTime": {
+        "mo": [],
+        "tu": [],
+        "we": [],
+        "th": [],
+        "fr": [],
+        "sa": [],
+        "su": []
+      },
+      "name": "м. Одеса, пров. Асташкіна, 29"
+    },
+    {
+      "description": "Магазин",
+      "type": "store-type-supplier",
+      "inventoryType": "integer",
+      "address": {
+        "countryIso": "UA",
+        "region": "Київ область",
+        "regionId": 250,
+        "city": "Київ",
+        "street": "Євгена Сверстюка, 4/1",
+        "building": "4/1",
+        "text": "Євгена Сверстюка, 4/1, д. 4/1"
+      },
+      "active": true,
+      "phone": {
+
+      },
+      "code": "7521",
+      "workTime": {
+        "mo": [],
+        "tu": [],
+        "we": [],
+        "th": [],
+        "fr": [],
+        "sa": [],
+        "su": []
+      },
+      "name": "м. Київ, вул. Євгена Сверстюка, 4/1"
+    },
+    {
+      "description": "Магазин",
+      "type": "store-type-supplier",
+      "inventoryType": "integer",
+      "address": {
+        "countryIso": "UA",
+        "region": "Хмельницька область",
+        "regionId": 117,
+        "city": "Хмельницький",
+        "street": "Зарічанська",
+        "building": "11-А",
+        "text": "Зарічанська, д. 11-А"
+      },
+      "active": true,
+      "phone": {
+
+      },
+      "code": "7527",
+      "workTime": {
+        "mo": [],
+        "tu": [],
+        "we": [],
+        "th": [],
+        "fr": [],
+        "sa": [],
+        "su": []
+      },
+      "name": "м. Хмельницький, вул. Зарічанська, 11-А"
+    },
+    {
+      "description": "Магазин",
+      "type": "store-type-supplier",
+      "inventoryType": "integer",
+      "address": {
+        "countryIso": "UA",
+        "region": "Харківська область",
+        "regionId": 98,
+        "city": "Харків",
+        "street": "Людвіга Свободи",
+        "building": "39",
+        "text": "Людвіга Свободи, д. 39"
+      },
+      "active": true,
+      "phone": {
+
+      },
+      "code": "7523",
+      "workTime": {
+        "mo": [],
+        "tu": [],
+        "we": [],
+        "th": [],
+        "fr": [],
+        "sa": [],
+        "su": []
+      },
+      "name": "м. Харків, просп. Людвіга Свободи, 39"
+    },
+    {
+      "description": "Магазин",
+      "type": "store-type-supplier",
+      "inventoryType": "integer",
+      "address": {
+        "countryIso": "UA",
+        "region": "Львівська область",
+        "regionId": 108,
+        "city": "Дрогобич",
+        "street": "Володимира Великого",
+        "building": "1-Р",
+        "text": "Володимира Великого, д. 1-Р"
+      },
+      "active": true,
+      "phone": {
+
+      },
+      "code": "7525",
+      "workTime": {
+        "mo": [],
+        "tu": [],
+        "we": [],
+        "th": [],
+        "fr": [],
+        "sa": [],
+        "su": []
+      },
+      "name": "м. Дрогобич, вул. Володимира Великого, 1-Р"
+    },
+    {
+      "description": "Магазин",
+      "type": "store-type-supplier",
+      "inventoryType": "integer",
+      "address": {
+        "countryIso": "UA",
+        "region": "Львівська область",
+        "regionId": 108,
+        "city": "Трускавець",
+        "street": "Стебницкая",
+        "building": "43",
+        "text": "Стебницкая, д. 43"
+      },
+      "active": true,
+      "phone": {
+
+      },
+      "code": "7526",
+      "workTime": {
+        "mo": [],
+        "tu": [],
+        "we": [],
+        "th": [],
+        "fr": [],
+        "sa": [],
+        "su": []
+      },
+      "name": "м. Трускавець, ТЦ Вектор вул. Стебницька, 43"
+    },
+    {
+      "description": "Магазин",
+      "type": "store-type-supplier",
+      "inventoryType": "integer",
+      "address": {
+        "countryIso": "UA",
+        "region": "Полтавська область",
+        "regionId": 109,
+        "city": "Кременчук",
+        "street": "Соборна",
+        "building": "13/39",
+        "text": "Соборна, д. 13/39"
+      },
+      "active": true,
+      "phone": {
+
+      },
+      "code": "7524",
+      "workTime": {
+        "mo": [],
+        "tu": [],
+        "we": [],
+        "th": [],
+        "fr": [],
+        "sa": [],
+        "su": []
+      },
+      "name": "м. Кременчук, вул. Соборна, 13/39"
+    },
+    {
+      "description": "Магазин",
+      "type": "store-type-supplier",
+      "inventoryType": "integer",
+      "address": {
+        "countryIso": "UA",
+        "region": "Чернівецька область",
+        "regionId": 111,
+        "city": "Чернівці",
+        "cityId": 406224,
+        "cityType": "г.",
+        "street": "Університетська",
+        "building": "7-Б",
+        "text": "Університетська, д. 7-Б"
+      },
+      "active": false,
+      "phone": {
+
+      },
+      "code": "7533",
+      "workTime": {
+        "mo": [],
+        "tu": [],
+        "we": [],
+        "th": [],
+        "fr": [],
+        "sa": [],
+        "su": []
+      },
+      "name": "м. Чернівці, вул. Університетська, 7-Б"
+    },
+    {
+      "description": "Магазин",
+      "type": "store-type-supplier",
+      "inventoryType": "integer",
+      "address": {
+        "countryIso": "UA",
+        "region": "Київська область",
+        "regionId": 102,
+        "city": "Київ",
+        "street": "Дніпровська набережна",
+        "building": "14",
+        "text": "Дніпровська набережна, д. 14"
+      },
+      "active": true,
+      "phone": {
+
+      },
+      "code": "7530",
+      "workTime": {
+        "mo": [],
+        "tu": [],
+        "we": [],
+        "th": [],
+        "fr": [],
+        "sa": [],
+        "su": []
+      },
+      "name": "м. Київ, вул. Дніпровська набережна, 14"
+    },
+    {
+      "description": "Виртуальный склад Львов",
+      "type": "store-type-supplier",
+      "inventoryType": "integer",
+      "address": {
+        "index": "79000",
+        "countryIso": "UA",
+        "region": "Львовская область",
+        "city": "Львов",
+        "street": "Шептицького",
+        "building": "2",
+        "text": "Шептицького, д. 2"
+      },
+      "active": false,
+      "phone": {
+        "number": "0996313595"
+      },
+      "code": "vp-01",
+      "workTime": {
+        "mo": [],
+        "tu": [],
+        "we": [],
+        "th": [],
+        "fr": [],
+        "sa": [],
+        "su": []
+      },
+      "name": "Склад ВП Львов"
+    },
+    {
+      "description": "Виртуальный склад Киев",
+      "type": "store-type-supplier",
+      "inventoryType": "integer",
+      "address": {
+        "index": "02000",
+        "countryIso": "UA",
+        "region": "Киев область",
+        "city": "Киев",
+        "street": "Північно- Сирецька",
+        "building": "49Г",
+        "text": "Північно- Сирецька, д. 49Г"
+      },
+      "active": false,
+      "phone": {
+        "number": "0996313595"
+      },
+      "code": "vp-02",
+      "workTime": {
+        "mo": [],
+        "tu": [],
+        "we": [],
+        "th": [],
+        "fr": [],
+        "sa": [],
+        "su": []
+      },
+      "name": "Склад ВП Киев"
+    },
+    {
+      "description": "Магазин",
+      "type": "store-type-supplier",
+      "inventoryType": "integer",
+      "address": {
+        "countryIso": "UA",
+        "region": "Чернівецька область",
+        "regionId": 111,
+        "city": "Чернівці",
+        "street": "Небесної Сотні",
+        "building": "19-А",
+        "text": "Небесної Сотні, д. 19-А"
+      },
+      "active": true,
+      "phone": {
+
+      },
+      "code": "7532",
+      "workTime": {
+        "mo": [],
+        "tu": [],
+        "we": [],
+        "th": [],
+        "fr": [],
+        "sa": [],
+        "su": []
+      },
+      "name": "м. Чернівці, вул. Небесної Сотні, 19-А"
+    },
+    {
+      "description": "Магазин",
+      "type": "store-type-supplier",
+      "inventoryType": "integer",
+      "address": {
+        "countryIso": "UA",
+        "region": "Чернівецька область",
+        "regionId": 111,
+        "city": "Чернівці",
+        "street": "Чорноморська",
+        "building": "4-а",
+        "text": "Чорноморська, д. 4-а"
+      },
+      "active": true,
+      "phone": {
+
+      },
+      "code": "7531",
+      "workTime": {
+        "mo": [],
+        "tu": [],
+        "we": [],
+        "th": [],
+        "fr": [],
+        "sa": [],
+        "su": []
+      },
+      "name": "м. Чернівці, вул. Чорноморська, 4-А"
+    },
+    {
+      "description": "Магазин",
+      "type": "store-type-supplier",
+      "inventoryType": "integer",
+      "address": {
+        "countryIso": "UA",
+        "region": "Дніпропетровська область",
+        "regionId": 114,
+        "city": "Дніпро",
+        "street": "Моніторна",
+        "building": "2",
+        "text": "Моніторна, д. 2"
+      },
+      "active": true,
+      "phone": {
+
+      },
+      "code": "7535",
+      "workTime": {
+        "mo": [],
+        "tu": [],
+        "we": [],
+        "th": [],
+        "fr": [],
+        "sa": [],
+        "su": []
+      },
+      "name": "м. Дніпро, вул. Моніторна, 2"
+    },
+    {
+      "description": "Магазин",
+      "type": "store-type-supplier",
+      "inventoryType": "integer",
+      "address": {
+        "countryIso": "UA",
+        "region": "Черкаська область",
+        "regionId": 113,
+        "city": "Черкаси",
+        "street": "Небесної Сотні",
+        "building": "35",
+        "text": "Небесної Сотні, д. 35"
+      },
+      "active": true,
+      "phone": {
+
+      },
+      "code": "7536",
+      "workTime": {
+        "mo": [],
+        "tu": [],
+        "we": [],
+        "th": [],
+        "fr": [],
+        "sa": [],
+        "su": []
+      },
+      "name": "м. Черкаси, вул. Небесної Сотні, 35"
+    },
+    {
+      "description": "Магазин",
+      "type": "store-type-supplier",
+      "inventoryType": "integer",
+      "address": {
+        "countryIso": "UA",
+        "region": "Київська область",
+        "regionId": 102,
+        "city": "Вишгород",
+        "street": "Набережна",
+        "building": "6-в",
+        "text": "Набережна, д. 6-в"
+      },
+      "active": false,
+      "phone": {
+
+      },
+      "code": "7541",
+      "workTime": {
+        "mo": [],
+        "tu": [],
+        "we": [],
+        "th": [],
+        "fr": [],
+        "sa": [],
+        "su": []
+      },
+      "name": "м. Вишгород, вул. Набережна, 6-в"
+    },
+    {
+      "description": "Магазин",
+      "type": "store-type-supplier",
+      "inventoryType": "integer",
+      "address": {
+        "countryIso": "UA",
+        "region": "Черкаська область",
+        "regionId": 113,
+        "city": "Сміла",
+        "street": "Богдана Хмельницького",
+        "building": "49",
+        "text": "Богдана Хмельницького, д. 49"
+      },
+      "active": true,
+      "phone": {
+
+      },
+      "code": "7537",
+      "workTime": {
+        "mo": [],
+        "tu": [],
+        "we": [],
+        "th": [],
+        "fr": [],
+        "sa": [],
+        "su": []
+      },
+      "name": "м. Сміла, вул. Богдана Хмельницького, 49"
+    },
+    {
+      "description": "Магазин",
+      "type": "store-type-supplier",
+      "inventoryType": "integer",
+      "address": {
+        "countryIso": "UA",
+        "region": "Одеська область",
+        "regionId": 101,
+        "city": "Одеса",
+        "street": "Канатна",
+        "building": "32",
+        "text": "Канатна, д. 32"
+      },
+      "active": true,
+      "phone": {
+
+      },
+      "code": "7542",
+      "workTime": {
+        "mo": [],
+        "tu": [],
+        "we": [],
+        "th": [],
+        "fr": [],
+        "sa": [],
+        "su": []
+      },
+      "name": "м. Одеса, вул. Канатна, 32"
+    },
+    {
+      "description": "Магазин",
+      "type": "store-type-supplier",
+      "inventoryType": "integer",
+      "address": {
+        "countryIso": "UA",
+        "region": "Одеська область",
+        "regionId": 101,
+        "city": "Одеса",
+        "street": "Сахарова",
+        "building": "3-К",
+        "text": "Сахарова, д. 3-К"
+      },
+      "active": true,
+      "phone": {
+
+      },
+      "code": "7538",
+      "workTime": {
+        "mo": [],
+        "tu": [],
+        "we": [],
+        "th": [],
+        "fr": [],
+        "sa": [],
+        "su": []
+      },
+      "name": "м. Одеса, вул. Сахарова, 3-К"
+    },
+    {
+      "description": "Магазин",
+      "type": "store-type-supplier",
+      "inventoryType": "integer",
+      "address": {
+        "countryIso": "UA",
+        "region": "Львівська область",
+        "regionId": 108,
+        "city": "Львів",
+        "street": "Садова",
+        "building": "2а",
+        "text": "Садова, д. 2а"
+      },
+      "active": true,
+      "phone": {
+
+      },
+      "code": "7543",
+      "workTime": {
+        "mo": [],
+        "tu": [],
+        "we": [],
+        "th": [],
+        "fr": [],
+        "sa": [],
+        "su": []
+      },
+      "name": "м. Львів, вул. Садова, 2а"
+    },
+    {
+      "description": "Магазин",
+      "type": "store-type-supplier",
+      "inventoryType": "integer",
+      "address": {
+        "countryIso": "UA",
+        "region": "Дніпропетровська область",
+        "regionId": 114,
+        "city": "Дніпро",
+        "street": "Набережна Заводська",
+        "building": "97-А",
+        "text": "Набережна Заводська, д. 97-А"
+      },
+      "active": true,
+      "phone": {
+
+      },
+      "code": "7545",
+      "workTime": {
+        "mo": [],
+        "tu": [],
+        "we": [],
+        "th": [],
+        "fr": [],
+        "sa": [],
+        "su": []
+      },
+      "name": "м. Дніпро, вул. Набережна Заводська, 97-А"
+    },
+    {
+      "description": "Магазин",
+      "type": "store-type-supplier",
+      "inventoryType": "integer",
+      "address": {
+        "countryIso": "UA",
+        "region": "Львівська область",
+        "regionId": 108,
+        "city": "Львів",
+        "cityId": 25219,
+        "cityType": "г.",
+        "street": "Садова",
+        "streetId": 3954647,
+        "building": "2а",
+        "text": "Садова, д. 2а"
+      },
+      "active": false,
+      "phone": {
+
+      },
+      "code": "tts-sodova-vul-sadova-2a",
+      "workTime": {
+        "mo": [],
+        "tu": [],
+        "we": [],
+        "th": [],
+        "fr": [],
+        "sa": [],
+        "su": []
+      },
+      "name": "м. Львів ТЦ \"SODOVA\" вул. Садова, 2а"
+    },
+    {
+      "description": "Магазин",
+      "type": "store-type-supplier",
+      "inventoryType": "integer",
+      "address": {
+        "countryIso": "UA",
+        "region": "Одеська область",
+        "regionId": 101,
+        "city": "Одеса",
+        "street": "Академіка Корольова",
+        "building": "29/29а",
+        "text": "Академіка Корольова, д. 29/29а"
+      },
+      "active": true,
+      "phone": {
+
+      },
+      "code": "7544",
+      "workTime": {
+        "mo": [],
+        "tu": [],
+        "we": [],
+        "th": [],
+        "fr": [],
+        "sa": [],
+        "su": []
+      },
+      "name": "м. Одеса, вул. Академіка Корольова, буд. 29/29а"
+    },
+    {
+      "description": "Магазин",
+      "type": "store-type-supplier",
+      "inventoryType": "integer",
+      "address": {
+        "countryIso": "UA",
+        "region": "Київська область",
+        "regionId": 102,
+        "city": "Київ",
+        "street": "пр-т. Правди",
+        "building": "41-А",
+        "text": "пр-т. Правди, д. 41-А"
+      },
+      "active": true,
+      "phone": {
+
+      },
+      "code": "7548",
+      "workTime": {
+        "mo": [],
+        "tu": [],
+        "we": [],
+        "th": [],
+        "fr": [],
+        "sa": [],
+        "su": []
+      },
+      "name": "м. Київ, пр-т. Європейського Союзу, 41-А"
+    },
+    {
+      "description": "Магазин",
+      "type": "store-type-supplier",
+      "inventoryType": "integer",
+      "address": {
+        "countryIso": "UA",
+        "region": "Черкаська область",
+        "regionId": 113,
+        "city": "Черкаси",
+        "street": "Героїв Дніпра",
+        "building": "6",
+        "text": "Героїв Дніпра, д. 6"
+      },
+      "active": true,
+      "phone": {
+
+      },
+      "code": "7547",
+      "workTime": {
+        "mo": [],
+        "tu": [],
+        "we": [],
+        "th": [],
+        "fr": [],
+        "sa": [],
+        "su": []
+      },
+      "name": "м. Черкаси, вул. Героїв Дніпра, 6"
+    },
+    {
+      "description": "Магазин",
+      "type": "store-type-supplier",
+      "inventoryType": "integer",
+      "address": {
+        "countryIso": "UA",
+        "region": "Львівська область",
+        "regionId": 108,
+        "city": "Львів",
+        "street": "Зелена",
+        "building": "151",
+        "text": "Зелена, д. 151"
+      },
+      "active": true,
+      "phone": {
+
+      },
+      "code": "7546",
+      "workTime": {
+        "mo": [],
+        "tu": [],
+        "we": [],
+        "th": [],
+        "fr": [],
+        "sa": [],
+        "su": []
+      },
+      "name": "м. Львів, БЦ Viking вул. Зелена, 151"
+    },
+    {
+      "description": "Магазин",
+      "type": "store-type-supplier",
+      "inventoryType": "integer",
+      "address": {
+        "countryIso": "UA",
+        "region": "Вінницька область",
+        "regionId": 104,
+        "city": "Вінниця",
+        "street": "Зодчих",
+        "building": "5",
+        "text": "Зодчих, д. 5"
+      },
+      "active": true,
+      "phone": {
+
+      },
+      "code": "7552",
+      "workTime": {
+        "mo": [],
+        "tu": [],
+        "we": [],
+        "th": [],
+        "fr": [],
+        "sa": [],
+        "su": []
+      },
+      "name": "м. Вінниця, вул. Зодчих, 5"
+    },
+    {
+      "description": "Магазин",
+      "type": "store-type-supplier",
+      "inventoryType": "integer",
+      "address": {
+        "countryIso": "UA",
+        "region": "Запорізька область",
+        "regionId": 105,
+        "city": "Кривий Ріг",
+        "street": "Петра Калнишевського",
+        "building": "12/57",
+        "text": "Петра Калнишевського, д. 12/57"
+      },
+      "active": true,
+      "phone": {
+
+      },
+      "code": "7551",
+      "workTime": {
+        "mo": [],
+        "tu": [],
+        "we": [],
+        "th": [],
+        "fr": [],
+        "sa": [],
+        "su": []
+      },
+      "name": "м. Кривий Ріг, вул. Петра Калнишевського, 12/57"
+    },
+    {
+      "description": "Магазин",
+      "type": "store-type-supplier",
+      "inventoryType": "integer",
+      "address": {
+        "countryIso": "UA",
+        "region": "Одеська область",
+        "regionId": 101,
+        "city": "Одеса",
+        "street": "Перлинна",
+        "building": "5",
+        "text": "Перлинна, д. 5"
+      },
+      "active": true,
+      "phone": {
+
+      },
+      "code": "7550",
+      "workTime": {
+        "mo": [],
+        "tu": [],
+        "we": [],
+        "th": [],
+        "fr": [],
+        "sa": [],
+        "su": []
+      },
+      "name": "м. Одеса, с. Лиманка, вул. Перлинна, 5"
+    },
+    {
+      "description": "Магазин",
+      "type": "store-type-supplier",
+      "inventoryType": "integer",
+      "address": {
+        "countryIso": "UA",
+        "region": "Київська область",
+        "regionId": 102,
+        "city": "Київ",
+        "street": "Гарматна",
+        "building": "26/2",
+        "text": "Гарматна, д. 26/2"
+      },
+      "active": true,
+      "phone": {
+
+      },
+      "code": "7529",
+      "workTime": {
+        "mo": [],
+        "tu": [],
+        "we": [],
+        "th": [],
+        "fr": [],
+        "sa": [],
+        "su": []
+      },
+      "name": "м. Київ, вул. Гарматна, 26/2"
+    },
+    {
+      "description": "Магазин",
+      "type": "store-type-supplier",
+      "inventoryType": "integer",
+      "address": {
+        "countryIso": "UA",
+        "region": "Чернівецька область",
+        "regionId": 111,
+        "city": "Чернівці",
+        "street": "Головна",
+        "building": "26",
+        "text": "Головна, д. 26"
+      },
+      "active": true,
+      "phone": {
+
+      },
+      "code": "7553",
+      "workTime": {
+        "mo": [],
+        "tu": [],
+        "we": [],
+        "th": [],
+        "fr": [],
+        "sa": [],
+        "su": []
+      },
+      "name": "м. Чернівці, вул. Головна, 26"
+    },
+    {
+      "description": "Магазин",
+      "type": "store-type-supplier",
+      "inventoryType": "integer",
+      "address": {
+        "countryIso": "UA",
+        "region": "Івано-Франківська область",
+        "regionId": 115,
+        "city": "Івано-Франківськ",
+        "street": "Коновальця",
+        "building": "88/1",
+        "text": "Коновальця, д. 88/1"
+      },
+      "active": true,
+      "phone": {
+
+      },
+      "code": "7554",
+      "workTime": {
+        "mo": [],
+        "tu": [],
+        "we": [],
+        "th": [],
+        "fr": [],
+        "sa": [],
+        "su": []
+      },
+      "name": "м. Івано-Франківськ, вул. Євгена Коновальця, 88/1"
+    },
+    {
+      "description": "Магазин",
+      "type": "store-type-supplier",
+      "inventoryType": "integer",
+      "address": {
+        "countryIso": "UA",
+        "region": "Черкаська область",
+        "regionId": 113,
+        "city": "Черкаси",
+        "street": "Володимира Великого",
+        "building": "55/2",
+        "text": "Володимира Великого, д. 55/2"
+      },
+      "active": true,
+      "phone": {
+
+      },
+      "code": "7555",
+      "workTime": {
+        "mo": [],
+        "tu": [],
+        "we": [],
+        "th": [],
+        "fr": [],
+        "sa": [],
+        "su": []
+      },
+      "name": "м. Черкаси, вул. Володимира Великого, 55/2"
+    },
+    {
+      "description": "Магазин",
+      "type": "store-type-supplier",
+      "inventoryType": "integer",
+      "address": {
+        "countryIso": "UA",
+        "region": "Запорізька область",
+        "regionId": 105,
+        "city": "Запоріжжя",
+        "street": "Бородинська",
+        "building": "7",
+        "text": "Бородинська, д. 7"
+      },
+      "active": true,
+      "phone": {
+
+      },
+      "code": "7556",
+      "workTime": {
+        "mo": [],
+        "tu": [],
+        "we": [],
+        "th": [],
+        "fr": [],
+        "sa": [],
+        "su": []
+      },
+      "name": "м. Запоріжжя, вул. Бородинська, 7"
+    },
+    {
+      "description": "Магазин",
+      "type": "store-type-supplier",
+      "inventoryType": "integer",
+      "address": {
+        "countryIso": "UA",
+        "region": "Полтавська область",
+        "regionId": 109,
+        "city": "Кременчук",
+        "street": "Європейська",
+        "building": "66/13",
+        "text": "Європейська, д. 66/13"
+      },
+      "active": true,
+      "phone": {
+
+      },
+      "code": "7549",
+      "workTime": {
+        "mo": [],
+        "tu": [],
+        "we": [],
+        "th": [],
+        "fr": [],
+        "sa": [],
+        "su": []
+      },
+      "name": "м. Кременчук, вул. Європейська, 66/13"
+    },
+    {
+      "description": "Магазин",
+      "type": "store-type-supplier",
+      "inventoryType": "integer",
+      "address": {
+        "countryIso": "UA",
+        "region": "Хмельницька",
+        "regionId": 117,
+        "city": "Хмельницький",
+        "street": "Шевченка",
+        "building": "39",
+        "text": "Шевченка, д. 39"
+      },
+      "active": true,
+      "phone": {
+
+      },
+      "code": "7558",
+      "workTime": {
+        "mo": [],
+        "tu": [],
+        "we": [],
+        "th": [],
+        "fr": [],
+        "sa": [],
+        "su": []
+      },
+      "name": "м. Хмельницький, вул. Шевченка, 39"
+    },
+    {
+      "description": "Магазин",
+      "type": "store-type-supplier",
+      "inventoryType": "integer",
+      "address": {
+        "countryIso": "UA",
+        "region": "Одеська",
+        "regionId": 101,
+        "city": "Одеса",
+        "street": "Маршала Говорова",
+        "building": "10/6",
+        "text": "Маршала Говорова, д. 10/6"
+      },
+      "active": true,
+      "phone": {
+
+      },
+      "code": "7559",
+      "workTime": {
+        "mo": [],
+        "tu": [],
+        "we": [],
+        "th": [],
+        "fr": [],
+        "sa": [],
+        "su": []
+      },
+      "name": "м. Одеса, вул. Маршала Говорова, 10/6"
+    },
+    {
+      "description": "Магазин",
+      "type": "store-type-supplier",
+      "inventoryType": "integer",
+      "address": {
+        "countryIso": "UA",
+        "region": "Київ область",
+        "regionId": 250,
+        "city": "Київ",
+        "street": "Золотоустівська",
+        "building": "52",
+        "text": "Золотоустівська, д. 52"
+      },
+      "active": true,
+      "phone": {
+
+      },
+      "code": "7560",
+      "workTime": {
+        "mo": [],
+        "tu": [],
+        "we": [],
+        "th": [],
+        "fr": [],
+        "sa": [],
+        "su": []
+      },
+      "name": "м. Київ, вул. Золотоустівська, 52"
+    },
+    {
+      "description": "Магазин",
+      "type": "store-type-supplier",
+      "inventoryType": "integer",
+      "address": {
+        "countryIso": "UA",
+        "region": "Київ область",
+        "regionId": 250,
+        "city": "Київ",
+        "street": "Щербаківського 56/7",
+        "building": "56/7",
+        "text": "Щербаківського 56/7, д. 56/7"
+      },
+      "active": true,
+      "phone": {
+
+      },
+      "code": "7566",
+      "workTime": {
+        "mo": [],
+        "tu": [],
+        "we": [],
+        "th": [],
+        "fr": [],
+        "sa": [],
+        "su": []
+      },
+      "name": "м. Київ, вул. Щербаківського, 56/7"
+    },
+    {
+      "description": "Магазин",
+      "type": "store-type-supplier",
+      "inventoryType": "integer",
+      "address": {
+        "countryIso": "UA",
+        "region": "Чернігівська область",
+        "regionId": 110,
+        "city": "Чернігів",
+        "street": "Незалежності",
+        "building": "23",
+        "text": "Незалежності, д. 23"
+      },
+      "active": true,
+      "phone": {
+
+      },
+      "code": "7570",
+      "workTime": {
+        "mo": [],
+        "tu": [],
+        "we": [],
+        "th": [],
+        "fr": [],
+        "sa": [],
+        "su": []
+      },
+      "name": "м. Чернігів, вул. Незалежності, 23"
+    },
+    {
+      "description": "Магазин",
+      "type": "store-type-supplier",
+      "inventoryType": "integer",
+      "address": {
+        "countryIso": "UA",
+        "region": "Київ область",
+        "regionId": 250,
+        "city": "Київ",
+        "street": "Івана Пулюя",
+        "building": "8-А",
+        "text": "Івана Пулюя, д. 8-А"
+      },
+      "active": true,
+      "phone": {
+
+      },
+      "code": "7564",
+      "workTime": {
+        "mo": [],
+        "tu": [],
+        "we": [],
+        "th": [],
+        "fr": [],
+        "sa": [],
+        "su": []
+      },
+      "name": "м. Київ, ТЦ Novus, вул. Івана Пулюя, 8-А"
+    },
+    {
+      "description": "Віртуальний склад Harley and Cho для відображення залишків",
+      "type": "store-type-supplier",
+      "inventoryType": "integer",
+      "address": {
+        "index": "79000",
+        "countryIso": "UA",
+        "region": "Львівська область",
+        "regionId": 108,
+        "city": "Львів",
+        "street": "Угорська",
+        "building": "22",
+        "text": "Угорська, д. 22"
+      },
+      "active": true,
+      "phone": {
+        "number": "0996313595"
+      },
+      "code": "7567",
+      "workTime": {
+        "mo": [],
+        "tu": [],
+        "we": [],
+        "th": [],
+        "fr": [],
+        "sa": [],
+        "su": []
+      },
+      "name": "Віртуальний Harley&Cho"
+    },
+    {
+      "type": "store-type-supplier",
+      "inventoryType": "integer",
+      "address": {
+        "countryIso": "UA",
+        "region": "Одеська область",
+        "regionId": 101,
+        "city": "Авангард",
+        "cityId": 402425,
+        "cityType": "п.",
+        "street": "Степовий",
+        "streetId": 3931608,
+        "building": "2",
+        "text": "Степовий, д. 2"
+      },
+      "active": true,
+      "phone": {
+
+      },
+      "code": "testovyi-sklad",
+      "workTime": {
+        "mo": [],
+        "tu": [],
+        "we": [],
+        "th": [],
+        "fr": [],
+        "sa": [],
+        "su": []
+      },
+      "name": "Тестовый склад"
+    },
+    {
+      "description": "Магазин",
+      "type": "store-type-supplier",
+      "inventoryType": "integer",
+      "address": {
+        "countryIso": "UA",
+        "region": "Львівська область",
+        "regionId": 108,
+        "city": "Львів",
+        "street": "Кульпарківська",
+        "building": "93",
+        "text": "Кульпарківська, д. 93"
+      },
+      "active": true,
+      "phone": {
+
+      },
+      "code": "7565",
+      "workTime": {
+        "mo": [],
+        "tu": [],
+        "we": [],
+        "th": [],
+        "fr": [],
+        "sa": [],
+        "su": []
+      },
+      "name": "м. Львів, вул. Кульпарківська, 93"
+    },
+    {
+      "description": "м. Львів Стрийська 53",
+      "type": "store-type-supplier",
+      "inventoryType": "integer",
+      "address": {
+        "countryIso": "UA"
+      },
+      "active": false,
+      "phone": {
+
+      },
+      "code": "m-mikolayiv-prosp-bogoiavlenskii-20-1",
+      "workTime": {
+        "mo": [],
+        "tu": [],
+        "we": [],
+        "th": [],
+        "fr": [],
+        "sa": [],
+        "su": []
+      },
+      "name": "Тестовий склад (Не вибирати!!!)"
+    },
+    {
+      "description": "Магазин",
+      "type": "store-type-supplier",
+      "inventoryType": "integer",
+      "address": {
+        "countryIso": "UA",
+        "region": "Миколаївська область",
+        "regionId": 94,
+        "city": "Миколаїв",
+        "street": "Богоявленський",
+        "building": "20/1",
+        "text": "Богоявленський, д. 20/1"
+      },
+      "active": true,
+      "phone": {
+
+      },
+      "code": "7563",
+      "workTime": {
+        "mo": [],
+        "tu": [],
+        "we": [],
+        "th": [],
+        "fr": [],
+        "sa": [],
+        "su": []
+      },
+      "name": "м. Миколаїв, просп. Богоявленський, 20/1"
+    },
+    {
+      "description": "Магазин",
+      "type": "store-type-supplier",
+      "inventoryType": "integer",
+      "address": {
+        "countryIso": "UA",
+        "region": "Львівська область",
+        "regionId": 108,
+        "city": "Львів",
+        "street": "Пасічна",
+        "building": "84-1, к. 1",
+        "text": "Пасічна, д. 84-1, к. 1"
+      },
+      "active": true,
+      "phone": {
+
+      },
+      "code": "7562",
+      "workTime": {
+        "mo": [],
+        "tu": [],
+        "we": [],
+        "th": [],
+        "fr": [],
+        "sa": [],
+        "su": []
+      },
+      "name": "м. Львів, ЖК Тіфані, вул. Пасічна, 84-1, к. 1"
+    },
+    {
+      "description": "Магазин",
+      "type": "store-type-supplier",
+      "inventoryType": "integer",
+      "address": {
+        "countryIso": "UA",
+        "region": "Сумська область",
+        "regionId": 116,
+        "city": "Суми",
+        "street": "Героїв Крут",
+        "building": "60/4",
+        "text": "Героїв Крут, д. 60/4"
+      },
+      "active": true,
+      "phone": {
+
+      },
+      "code": "7569",
+      "workTime": {
+        "mo": [],
+        "tu": [],
+        "we": [],
+        "th": [],
+        "fr": [],
+        "sa": [],
+        "su": []
+      },
+      "name": "м. Суми, вул. Героїв Крут, буд. 60/4"
+    },
+    {
+      "description": "Магазин",
+      "type": "store-type-supplier",
+      "inventoryType": "integer",
+      "address": {
+        "countryIso": "UA",
+        "region": "Івано-Франківська область",
+        "regionId": 115,
+        "city": "Калуш",
+        "street": "Лесі Українки",
+        "building": "66",
+        "housing": "1",
+        "text": "Лесі Українки, д. 66, корп. 1"
+      },
+      "active": true,
+      "phone": {
+
+      },
+      "code": "7574",
+      "workTime": {
+        "mo": [],
+        "tu": [],
+        "we": [],
+        "th": [],
+        "fr": [],
+        "sa": [],
+        "su": []
+      },
+      "name": "м. Калуш, пр. Лесі Українки, 66, корп. 1"
+    },
+    {
+      "description": "Магазин",
+      "type": "store-type-supplier",
+      "inventoryType": "integer",
+      "address": {
+        "countryIso": "UA",
+        "region": "Кіровоградська область",
+        "regionId": 103,
+        "city": "Кропивницький",
+        "street": "Євгена Тельнова",
+        "building": "11",
+        "text": "Євгена Тельнова, д. 11"
+      },
+      "active": true,
+      "phone": {
+
+      },
+      "code": "7557",
+      "workTime": {
+        "mo": [],
+        "tu": [],
+        "we": [],
+        "th": [],
+        "fr": [],
+        "sa": [],
+        "su": []
+      },
+      "name": "м. Кропивницький, вул. Євгена Тельнова, буд.11"
+    },
+    {
+      "description": "Магазин",
+      "type": "store-type-supplier",
+      "inventoryType": "integer",
+      "address": {
+        "countryIso": "UA",
+        "region": "Київ область",
+        "regionId": 250,
+        "city": "Київ",
+        "street": "Здановської",
+        "building": "50/2",
+        "text": "Здановської, д. 50/2"
+      },
+      "active": true,
+      "phone": {
+
+      },
+      "code": "7561",
+      "workTime": {
+        "mo": [],
+        "tu": [],
+        "we": [],
+        "th": [],
+        "fr": [],
+        "sa": [],
+        "su": []
+      },
+      "name": "м. Київ, вул. Здановської, буд. 50/2, прим. 1062"
+    },
+    {
+      "description": "Магазин",
+      "type": "store-type-supplier",
+      "inventoryType": "integer",
+      "address": {
+        "countryIso": "UA",
+        "region": "Харківська область",
+        "regionId": 98,
+        "city": "Харків",
+        "street": "Байрона",
+        "building": "136/К",
+        "text": "Байрона, д. 136/К"
+      },
+      "active": true,
+      "phone": {
+
+      },
+      "code": "7568",
+      "workTime": {
+        "mo": [],
+        "tu": [],
+        "we": [],
+        "th": [],
+        "fr": [],
+        "sa": [],
+        "su": []
+      },
+      "name": "м. Харків, проспект Байрона 136/К"
+    },
+    {
+      "description": "Магазин",
+      "type": "store-type-supplier",
+      "inventoryType": "integer",
+      "address": {
+        "countryIso": "UA",
+        "region": "Київська область",
+        "regionId": 102,
+        "city": "Чабани",
+        "street": "Покровська",
+        "building": "26",
+        "text": "Покровська, д. 26"
+      },
+      "active": true,
+      "phone": {
+
+      },
+      "code": "7572",
+      "workTime": {
+        "mo": [],
+        "tu": [],
+        "we": [],
+        "th": [],
+        "fr": [],
+        "sa": [],
+        "su": []
+      },
+      "name": "смт. Чабани, вул. Покровська, 26"
+    },
+    {
+      "description": "Магазин",
+      "type": "store-type-supplier",
+      "inventoryType": "integer",
+      "address": {
+        "countryIso": "UA",
+        "region": "Дніпропетровська область",
+        "regionId": 114,
+        "city": "Кам'янське",
+        "street": "бул. Будівельників",
+        "building": "27А",
+        "text": "бул. Будівельників, д. 27А"
+      },
+      "active": true,
+      "phone": {
+
+      },
+      "code": "7573",
+      "workTime": {
+        "mo": [],
+        "tu": [],
+        "we": [],
+        "th": [],
+        "fr": [],
+        "sa": [],
+        "su": []
+      },
+      "name": "м. Кам'янське, ТЦ «Терра», бул. Будівельників, 27А"
+    },
+    {
+      "description": "Магазин",
+      "type": "store-type-supplier",
+      "inventoryType": "integer",
+      "address": {
+        "countryIso": "UA",
+        "region": "Харківська область",
+        "regionId": 98,
+        "city": "Харків",
+        "street": "Ювілейний",
+        "building": "63Д",
+        "text": "Ювілейний, д. 63Д"
+      },
+      "active": true,
+      "phone": {
+
+      },
+      "code": "7575",
+      "workTime": {
+        "mo": [],
+        "tu": [],
+        "we": [],
+        "th": [],
+        "fr": [],
+        "sa": [],
+        "su": []
+      },
+      "name": "м. Харків, просп. Ювілейний, 63Д"
+    },
+    {
+      "description": "Магазин",
+      "type": "store-type-supplier",
+      "inventoryType": "integer",
+      "address": {
+        "countryIso": "UA",
+        "region": "Київ область",
+        "regionId": 250,
+        "city": "Київ",
+        "street": "Кільцева",
+        "building": "1",
+        "text": "Кільцева, д. 1"
+      },
+      "active": true,
+      "phone": {
+
+      },
+      "code": "7571",
+      "workTime": {
+        "mo": [],
+        "tu": [],
+        "we": [],
+        "th": [],
+        "fr": [],
+        "sa": [],
+        "su": []
+      },
+      "name": "м. Київ, ТРЦ Республіка-2, Кільцева дорога, 1"
+    },
+    {
+      "description": "Магазин",
+      "type": "store-type-supplier",
+      "inventoryType": "integer",
+      "address": {
+        "countryIso": "UA",
+        "region": "Київська область",
+        "regionId": 102,
+        "city": "Петропавлівська Борщагівка",
+        "street": "Львівська",
+        "building": "1-А",
+        "text": "Львівська, д. 1-А"
+      },
+      "active": true,
+      "phone": {
+
+      },
+      "code": "7579",
+      "workTime": {
+        "mo": [],
+        "tu": [],
+        "we": [],
+        "th": [],
+        "fr": [],
+        "sa": [],
+        "su": []
+      },
+      "name": "с. Петропавлівська Борщагівка, вул. Львівська, буд.1-А"
+    },
+    {
+      "description": "Магазин",
+      "type": "store-type-supplier",
+      "inventoryType": "integer",
+      "address": {
+        "countryIso": "UA",
+        "region": "Полтавська область",
+        "regionId": 109,
+        "city": "Кременчук",
+        "street": "Свободи",
+        "building": "69-А",
+        "text": "Свободи, д. 69-А"
+      },
+      "active": true,
+      "phone": {
+
+      },
+      "code": "7581",
+      "workTime": {
+        "mo": [],
+        "tu": [],
+        "we": [],
+        "th": [],
+        "fr": [],
+        "sa": [],
+        "su": []
+      },
+      "name": "м. Кременчук, пр. Свободи, буд. 69-А"
+    },
+    {
+      "description": "Магазин",
+      "type": "store-type-supplier",
+      "inventoryType": "integer",
+      "address": {
+        "countryIso": "UA",
+        "region": "Чернігівська область",
+        "regionId": 110,
+        "city": "Чернігів",
+        "street": "Перемоги",
+        "building": "89",
+        "text": "Перемоги, д. 89"
+      },
+      "active": true,
+      "phone": {
+
+      },
+      "code": "7582",
+      "workTime": {
+        "mo": [],
+        "tu": [],
+        "we": [],
+        "th": [],
+        "fr": [],
+        "sa": [],
+        "su": []
+      },
+      "name": "м. Чернігів, пр. Перемоги, буд. 89"
+    },
+    {
+      "description": "Магазин",
+      "type": "store-type-supplier",
+      "inventoryType": "integer",
+      "address": {
+        "countryIso": "UA",
+        "region": "Київ область",
+        "regionId": 250,
+        "city": "Київ",
+        "street": "вул. Малишка, буд. 4/1",
+        "building": "4/1",
+        "text": "вул. Малишка, буд. 4/1, д. 4/1"
+      },
+      "active": true,
+      "phone": {
+
+      },
+      "code": "7578",
+      "workTime": {
+        "mo": [],
+        "tu": [],
+        "we": [],
+        "th": [],
+        "fr": [],
+        "sa": [],
+        "su": []
+      },
+      "name": "м. Київ, вул. Малишка, буд. 4/1"
+    },
+    {
+      "description": "Магазин",
+      "type": "store-type-supplier",
+      "inventoryType": "integer",
+      "address": {
+        "countryIso": "UA",
+        "region": "Одеська область",
+        "regionId": 101,
+        "city": "Одеса",
+        "street": "Лігінська",
+        "building": "буд. 2-А",
+        "text": "Лігінська, д. буд. 2-А"
+      },
+      "active": true,
+      "phone": {
+
+      },
+      "code": "7588",
+      "workTime": {
+        "mo": [],
+        "tu": [],
+        "we": [],
+        "th": [],
+        "fr": [],
+        "sa": [],
+        "su": []
+      },
+      "name": "м. Одеса, вул. Лігінська, буд. 2-А"
+    },
+    {
+      "description": "Магазин",
+      "type": "store-type-supplier",
+      "inventoryType": "integer",
+      "address": {
+        "countryIso": "UA",
+        "region": "Харківська область",
+        "regionId": 98,
+        "city": "Харків",
+        "street": "Стадіонний проїзд",
+        "building": "9",
+        "text": "Стадіонний проїзд, д. 9"
+      },
+      "active": true,
+      "phone": {
+
+      },
+      "code": "7584",
+      "workTime": {
+        "mo": [],
+        "tu": [],
+        "we": [],
+        "th": [],
+        "fr": [],
+        "sa": [],
+        "su": []
+      },
+      "name": "м. Харків, Стадіонний проїзд, буд. 9"
+    },
+    {
+      "description": "Магазин",
+      "type": "store-type-supplier",
+      "inventoryType": "integer",
+      "address": {
+        "countryIso": "UA",
+        "region": "Київ область",
+        "regionId": 250,
+        "city": "Київ",
+        "street": "Академіка Палладіна",
+        "building": "16",
+        "text": "Академіка Палладіна, д. 16"
+      },
+      "active": true,
+      "phone": {
+
+      },
+      "code": "7576",
+      "workTime": {
+        "mo": [],
+        "tu": [],
+        "we": [],
+        "th": [],
+        "fr": [],
+        "sa": [],
+        "su": []
+      },
+      "name": "м. Київ, Академ Сіті, пр. Академіка Палладіна, буд. 16"
+    },
+    {
+      "description": "Магазин",
+      "type": "store-type-supplier",
+      "inventoryType": "integer",
+      "address": {
+        "countryIso": "UA",
+        "region": "Миколаївська область",
+        "regionId": 94,
+        "city": "Миколаїв",
+        "street": "Центральний",
+        "building": "98",
+        "text": "Центральний, д. 98"
+      },
+      "active": true,
+      "phone": {
+
+      },
+      "code": "7591",
+      "workTime": {
+        "mo": [],
+        "tu": [],
+        "we": [],
+        "th": [],
+        "fr": [],
+        "sa": [],
+        "su": []
+      },
+      "name": "м. Миколаїв, ТЦ Сіті Центр, пр. Центральний, буд. 98"
+    },
+    {
+      "type": "store-type-supplier",
+      "inventoryType": "integer",
+      "address": {
+        "index": "04136",
+        "countryIso": "UA",
+        "region": "Київ область",
+        "regionId": 250,
+        "city": "Київ",
+        "street": "Івана Виговського",
+        "building": "20Д",
+        "text": "Івана Виговського, д. 20Д"
+      },
+      "active": true,
+      "phone": {
+        "number": "0935163124"
+      },
+      "contact": "Булатов Роман",
+      "code": "7587",
+      "workTime": {
+        "mo": [],
+        "tu": [],
+        "we": [],
+        "th": [],
+        "fr": [],
+        "sa": [],
+        "su": []
+      },
+      "name": "Склад ИМ Киев"
+    },
+    {
+      "description": "Магазин",
+      "type": "store-type-supplier",
+      "inventoryType": "integer",
+      "address": {
+        "countryIso": "UA",
+        "region": "Запорізька область",
+        "regionId": 105,
+        "city": "Кривий Ріг",
+        "street": "Центральний",
+        "building": "37",
+        "text": "Центральний, д. 37"
+      },
+      "active": true,
+      "phone": {
+
+      },
+      "code": "7577",
+      "workTime": {
+        "mo": [],
+        "tu": [],
+        "we": [],
+        "th": [],
+        "fr": [],
+        "sa": [],
+        "su": []
+      },
+      "name": "м. Кривий Ріг, ТЦ Вікторі Плаза, пр. Центральний, буд. 37"
+    },
+    {
+      "description": "Магазин",
+      "type": "store-type-supplier",
+      "inventoryType": "integer",
+      "address": {
+        "countryIso": "UA",
+        "region": "Київ область",
+        "regionId": 250,
+        "city": "Київ",
+        "street": "Саксаганського",
+        "building": "40/85",
+        "text": "Саксаганського, д. 40/85"
+      },
+      "active": true,
+      "phone": {
+
+      },
+      "code": "7585",
+      "workTime": {
+        "mo": [],
+        "tu": [],
+        "we": [],
+        "th": [],
+        "fr": [],
+        "sa": [],
+        "su": []
+      },
+      "name": "м. Київ, вул. Саксаганського, буд. 40/85"
+    },
+    {
+      "description": "Склад компанії. Харків",
+      "type": "store-type-supplier",
+      "inventoryType": "integer",
+      "address": {
+        "countryIso": "UA",
+        "region": "Харківська область",
+        "regionId": 98,
+        "city": "Харків",
+        "street": "Дерев'янка",
+        "text": "Дерев'янка"
+      },
+      "active": true,
+      "phone": {
+
+      },
+      "code": "7599",
+      "workTime": {
+        "mo": [],
+        "tu": [],
+        "we": [],
+        "th": [],
+        "fr": [],
+        "sa": [],
+        "su": []
+      },
+      "name": "м. Харків, вул. Дерев'янка, буд. 17в - Уцінка"
+    },
+    {
+      "description": "Магазин",
+      "type": "store-type-supplier",
+      "inventoryType": "integer",
+      "address": {
+        "countryIso": "UA",
+        "region": "Дніпропетровська область",
+        "regionId": 114,
+        "city": "Дніпро",
+        "street": "пр. Слобожанський",
+        "building": "76а",
+        "text": "пр. Слобожанський, д. 76а"
+      },
+      "active": true,
+      "phone": {
+
+      },
+      "code": "7593",
+      "workTime": {
+        "mo": [],
+        "tu": [],
+        "we": [],
+        "th": [],
+        "fr": [],
+        "sa": [],
+        "su": []
+      },
+      "name": "м. Дніпро, пр .Слобожанський, буд. 76а"
+    },
+    {
+      "description": "Магазин",
+      "type": "store-type-supplier",
+      "inventoryType": "integer",
+      "address": {
+        "countryIso": "UA",
+        "region": "Київ область",
+        "regionId": 250,
+        "city": "Київ",
+        "street": "Оноре де Бальзака",
+        "building": "85",
+        "text": "Оноре де Бальзака, д. 85"
+      },
+      "active": true,
+      "phone": {
+
+      },
+      "code": "7592",
+      "workTime": {
+        "mo": [],
+        "tu": [],
+        "we": [],
+        "th": [],
+        "fr": [],
+        "sa": [],
+        "su": []
+      },
+      "name": "м. Київ, ТЦ Десна Скай, вул. Оноре де Бальзака, буд. 85"
+    },
+    {
+      "description": "Магазин",
+      "type": "store-type-supplier",
+      "inventoryType": "integer",
+      "address": {
+        "countryIso": "UA",
+        "region": "Кіровоградська область",
+        "regionId": 103,
+        "city": "Кропивницький",
+        "street": "Велика Перспективна",
+        "building": "38/33",
+        "text": "Велика Перспективна, д. 38/33"
+      },
+      "active": true,
+      "phone": {
+
+      },
+      "code": "7586",
+      "workTime": {
+        "mo": [],
+        "tu": [],
+        "we": [],
+        "th": [],
+        "fr": [],
+        "sa": [],
+        "su": []
+      },
+      "name": "м. Кропивницький, вул. Велика Перспективна, буд. 38/33"
+    },
+    {
+      "description": "Магазин",
+      "type": "store-type-supplier",
+      "inventoryType": "integer",
+      "address": {
+        "countryIso": "UA",
+        "region": "Київська область",
+        "regionId": 102,
+        "city": "Козин",
+        "street": "Партизанська",
+        "building": "15",
+        "text": "Партизанська, д. 15"
+      },
+      "active": true,
+      "phone": {
+
+      },
+      "code": "7596",
+      "workTime": {
+        "mo": [],
+        "tu": [],
+        "we": [],
+        "th": [],
+        "fr": [],
+        "sa": [],
+        "su": []
+      },
+      "name": "смт. Козин вул. Партизанська, буд. 15"
+    },
+    {
+      "description": "Магазин",
+      "type": "store-type-supplier",
+      "inventoryType": "integer",
+      "address": {
+        "countryIso": "UA",
+        "region": "Львівська область",
+        "regionId": 108,
+        "city": "Львів",
+        "street": "Стрийська",
+        "building": "202",
+        "text": "Стрийська, д. 202"
+      },
+      "active": true,
+      "phone": {
+
+      },
+      "code": "7590",
+      "workTime": {
+        "mo": [],
+        "tu": [],
+        "we": [],
+        "th": [],
+        "fr": [],
+        "sa": [],
+        "su": []
+      },
+      "name": "м. Львів, вул. Стрийська, 202 (бізнес-набережна DUCK'S LAKE)"
+    },
+    {
+      "type": "store-type-supplier",
+      "inventoryType": "integer",
+      "address": {
+        "index": "04136",
+        "countryIso": "UA",
+        "region": "Київ область",
+        "regionId": 250,
+        "city": "Київ",
+        "street": "Київська",
+        "building": "20Д",
+        "text": "Київська, д. 20Д"
+      },
+      "active": true,
+      "phone": {
+        "number": "0935163124"
+      },
+      "contact": "Булатов Роман",
+      "code": "7598",
+      "workTime": {
+        "mo": [],
+        "tu": [],
+        "we": [],
+        "th": [],
+        "fr": [],
+        "sa": [],
+        "su": []
+      },
+      "name": "Склад ИМ Киев (уценка)"
+    }
+  ]
+}
