@@ -4530,35 +4530,7 @@
       "name": "м. Київ, вул. Дніпровська набережна, 14"
     },
     
-    {
-      "description": "Виртуальный склад Киев",
-      "type": "store-type-supplier",
-      "inventoryType": "integer",
-      "address": {
-        "index": "02000",
-        "countryIso": "UA",
-        "region": "Киев область",
-        "city": "Киев",
-        "street": "Північно- Сирецька",
-        "building": "49Г",
-        "text": "Північно- Сирецька, д. 49Г"
-      },
-      "active": false,
-      "phone": {
-        "number": "0996313595"
-      },
-      "code": "vp-02",
-      "workTime": {
-        "mo": [],
-        "tu": [],
-        "we": [],
-        "th": [],
-        "fr": [],
-        "sa": [],
-        "su": []
-      },
-      "name": "Склад ВП Киев"
-    },
+    
     {
       "description": "Магазин",
       "type": "store-type-supplier",
