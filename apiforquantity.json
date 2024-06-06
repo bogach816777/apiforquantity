@@ -5404,67 +5404,8 @@
       },
       "name": "м. Київ, ТЦ Novus, вул. Івана Пулюя, 8-А"
     },
-    {
-      "description": "Віртуальний склад Harley and Cho для відображення залишків",
-      "type": "store-type-supplier",
-      "inventoryType": "integer",
-      "address": {
-        "index": "79000",
-        "countryIso": "UA",
-        "region": "Львівська область",
-        "regionId": 108,
-        "city": "Львів",
-        "street": "Угорська",
-        "building": "22",
-        "text": "Угорська, д. 22"
-      },
-      "active": true,
-      "phone": {
-        "number": "0996313595"
-      },
-      "code": "7567",
-      "workTime": {
-        "mo": [],
-        "tu": [],
-        "we": [],
-        "th": [],
-        "fr": [],
-        "sa": [],
-        "su": []
-      },
-      "name": "Віртуальний Harley&Cho"
-    },
-    {
-      "type": "store-type-supplier",
-      "inventoryType": "integer",
-      "address": {
-        "countryIso": "UA",
-        "region": "Одеська область",
-        "regionId": 101,
-        "city": "Авангард",
-        "cityId": 402425,
-        "cityType": "п.",
-        "street": "Степовий",
-        "streetId": 3931608,
-        "building": "2",
-        "text": "Степовий, д. 2"
-      },
-      "active": true,
-      "phone": {
-
-      },
-      "code": "testovyi-sklad",
-      "workTime": {
-        "mo": [],
-        "tu": [],
-        "we": [],
-        "th": [],
-        "fr": [],
-        "sa": [],
-        "su": []
-      },
-      "name": "Тестовый склад"
-    },
+    
+   
     {
       "description": "Магазин",
       "type": "store-type-supplier",
