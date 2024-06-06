@@ -2496,35 +2496,7 @@
       },
       "name": "м. Суми, вул. Петропавлівська, 72"
     },
-    {
-      "description": "Магазин",
-      "type": "store-type-supplier",
-      "inventoryType": "integer",
-      "address": {
-        "countryIso": "UA",
-        "region": "Тернопольская область",
-        "regionId": 96,
-        "city": "м. Тернопіль",
-        "street": "Київська",
-        "building": "11Б",
-        "text": "Київська, д. 11Б"
-      },
-      "active": true,
-      "phone": {
-
-      },
-      "code": "7466",
-      "workTime": {
-        "mo": [],
-        "tu": [],
-        "we": [],
-        "th": [],
-        "fr": [],
-        "sa": [],
-        "su": []
-      },
-      "name": "м. Тернопіль, вул Київська 11Б"
-    },
+   
     {
       "description": "Магазин",
       "type": "store-type-supplier",
