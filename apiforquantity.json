@@ -4529,35 +4529,7 @@
       },
       "name": "м. Київ, вул. Дніпровська набережна, 14"
     },
-    {
-      "description": "Виртуальный склад Львов",
-      "type": "store-type-supplier",
-      "inventoryType": "integer",
-      "address": {
-        "index": "79000",
-        "countryIso": "UA",
-        "region": "Львовская область",
-        "city": "Львов",
-        "street": "Шептицького",
-        "building": "2",
-        "text": "Шептицького, д. 2"
-      },
-      "active": false,
-      "phone": {
-        "number": "0996313595"
-      },
-      "code": "vp-01",
-      "workTime": {
-        "mo": [],
-        "tu": [],
-        "we": [],
-        "th": [],
-        "fr": [],
-        "sa": [],
-        "su": []
-      },
-      "name": "Склад ВП Львов"
-    },
+    
     {
       "description": "Виртуальный склад Киев",
       "type": "store-type-supplier",
