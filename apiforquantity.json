@@ -3862,38 +3862,7 @@
       },
       "name": "м. Київ, вул. Панаса Мирного, 16/13"
     },
-    {
-      "description": "Склад компании. Львов.",
-      "type": "store-type-supplier",
-      "inventoryType": "integer",
-      "address": {
-        "index": "81131",
-        "countryIso": "UA",
-        "region": "Львівська область",
-        "regionId": 108,
-        "city": "Солонка",
-        "cityId": 25446,
-        "cityType": "д.",
-        "street": "Стуса Василя",
-        "building": "55",
-        "text": "Стуса Василя, д. 55"
-      },
-      "active": false,
-      "phone": {
-        "number": "0971353925"
-      },
-      "code": "008",
-      "workTime": {
-        "mo": [],
-        "tu": [],
-        "we": [],
-        "th": [],
-        "fr": [],
-        "sa": [],
-        "su": []
-      },
-      "name": "Склад дистрибуции Львов"
-    },
+   
     {
       "description": "Магазин",
       "type": "store-type-supplier",
