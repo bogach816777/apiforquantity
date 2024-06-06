@@ -3053,38 +3053,6 @@
       "inventoryType": "integer",
       "address": {
         "countryIso": "UA",
-        "region": "Днепропетровская область",
-        "regionId": 114,
-        "city": "Днепр",
-        "cityId": 18209,
-        "cityType": "г.",
-        "street": "Слобожанський",
-        "streetId": 3428849,
-        "building": "2",
-        "text": "Слобожанський, д. 2"
-      },
-      "active": false,
-      "phone": {
-
-      },
-      "code": "7479",
-      "workTime": {
-        "mo": [],
-        "tu": [],
-        "we": [],
-        "th": [],
-        "fr": [],
-        "sa": [],
-        "su": []
-      },
-      "name": "Днепр Слобожанский 2"
-    },
-    {
-      "description": "Магазин",
-      "type": "store-type-supplier",
-      "inventoryType": "integer",
-      "address": {
-        "countryIso": "UA",
         "region": "Хмельницкая область",
         "regionId": 117,
         "city": "Хмельницький",
